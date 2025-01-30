@@ -25,3 +25,5 @@ This repository will be continuously updated as I progress through the course. ð
 
 **Index**
 
+- [Lesson 1](https://github.com/laurenrigante/Big-Data-Analytics/tree/main/LESSON%201) : Introduction to big data tools, data mining, and lambda functions
+- 

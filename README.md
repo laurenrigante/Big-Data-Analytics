@@ -1,5 +1,5 @@
 # Big-Data-Analytics
-This repository contains all my Jupyter Notebook files for my Big Data Analytics course. It includes practice exercises, case studies, and topic explorations covering key concepts in data analytics, storage, and processing.
+This repository contains all my Jupyter Notebook files for my Big Data Analytics course. It includes practice exercises, case studies, and topic explorations covering key concepts in data analytics, storage, and processing. Note: All files includes were not submitted for grading, they are simply practice provided to us to strengthen our skills - including those names "Assignments", these are practice assignments that were optional
 
 **Topics Covered:**
 
@@ -26,4 +26,4 @@ This repository will be continuously updated as I progress through the course. ð
 **Index**
 
 - [Lesson 1](https://github.com/laurenrigante/Big-Data-Analytics/tree/main/LESSON%201) : Introduction to big data tools, data mining, and lambda functions
-- 
+-   : Introduction to NumPy, Pandas, and Matplot lib. Includes case studies and practice assignments

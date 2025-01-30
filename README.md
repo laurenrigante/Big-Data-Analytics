@@ -7,17 +7,17 @@ This repository contains all my Jupyter Notebook files for my Big Data Analytics
 
 ✔ Matplotlib – Data visualization techniques
 
-✔ Big Data Storage Concepts – Understanding storage systems
+⌛ Big Data Storage Concepts – Understanding storage systems
 
-✔ Machine Learning – Supervised vs. Unsupervised learning
+⌛ Machine Learning – Supervised vs. Unsupervised learning
 
-✔ Classification & Clustering – Deep learning and overfitting solutions
+⌛ Classification & Clustering – Deep learning and overfitting solutions
 
-✔ Data Series Prediction – Forecasting trends
+⌛ Data Series Prediction – Forecasting trends
 
-✔ Data Processing – Streaming vs. batch processing
+⌛ Data Processing – Streaming vs. batch processing
 
-✔ Apache Kafka & Spark – Scalable data analytics
+⌛ Apache Kafka & Spark – Scalable data analytics
 
 
 This repository will be continuously updated as I progress through the course. 🚀

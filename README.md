@@ -27,3 +27,4 @@ This repository will be continuously updated as I progress through the course. ð
 
 - [Lesson 1](https://github.com/laurenrigante/Big-Data-Analytics/tree/main/LESSON%201) : Introduction to big data tools, data mining, and lambda functions
 - [Lesson 2](https://github.com/laurenrigante/Big-Data-Analytics/tree/main/LESSON%202)   : Introduction to NumPy, Pandas, and Matplot lib. Includes case studies and practice assignments
+- [Lesson 3]() : Machine Learning, Regression Methods, Classification, Decision Trees

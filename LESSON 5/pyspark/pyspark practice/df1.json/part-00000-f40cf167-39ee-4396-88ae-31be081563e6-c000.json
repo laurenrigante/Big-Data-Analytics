@@ -1,0 +1,981 @@
+{"Gender":"Female","City":"Trollhättan","Total_Salary":106623.369140625,"Average_Salary":53311.6845703125,"Min_Salary":26830.47,"Max_Salary":79792.9}
+{"Gender":"Male","City":"Wenshao","Total_Salary":18941.509765625,"Average_Salary":18941.509765625,"Min_Salary":18941.51,"Max_Salary":18941.51}
+{"Gender":"Female","City":"Lanas","Total_Salary":13765.900390625,"Average_Salary":13765.900390625,"Min_Salary":13765.9,"Max_Salary":13765.9}
+{"Gender":"Male","City":"Mörön","Total_Salary":77940.078125,"Average_Salary":77940.078125,"Min_Salary":77940.08,"Max_Salary":77940.08}
+{"Gender":"Female","City":"Same","Total_Salary":73369.7265625,"Average_Salary":73369.7265625,"Min_Salary":73369.73,"Max_Salary":73369.73}
+{"Gender":"Female","City":"Sawahan","Total_Salary":24608.83984375,"Average_Salary":24608.83984375,"Min_Salary":24608.84,"Max_Salary":24608.84}
+{"Gender":"Male","City":"Monte da Boavista","Total_Salary":98586.71875,"Average_Salary":98586.71875,"Min_Salary":98586.72,"Max_Salary":98586.72}
+{"Gender":"Female","City":"Nusajaya","Total_Salary":71637.921875,"Average_Salary":71637.921875,"Min_Salary":71637.92,"Max_Salary":71637.92}
+{"Gender":"Female","City":"Kista","Total_Salary":96192.3984375,"Average_Salary":96192.3984375,"Min_Salary":96192.4,"Max_Salary":96192.4}
+{"Gender":"Male","City":"Pittsburgh","Total_Salary":83121.890625,"Average_Salary":83121.890625,"Min_Salary":83121.89,"Max_Salary":83121.89}
+{"Gender":"Male","City":"Neftegorsk","Total_Salary":97531.46875,"Average_Salary":97531.46875,"Min_Salary":97531.47,"Max_Salary":97531.47}
+{"Gender":"Female","City":"Yanaoca","Total_Salary":54906.21875,"Average_Salary":54906.21875,"Min_Salary":54906.22,"Max_Salary":54906.22}
+{"Gender":"Male","City":"Tambo","Total_Salary":40264.91015625,"Average_Salary":40264.91015625,"Min_Salary":40264.91,"Max_Salary":40264.91}
+{"Gender":"Male","City":"Mytishchi","Total_Salary":63863.08984375,"Average_Salary":63863.08984375,"Min_Salary":63863.09,"Max_Salary":63863.09}
+{"Gender":"Male","City":"Pedra","Total_Salary":73921.328125,"Average_Salary":73921.328125,"Min_Salary":73921.33,"Max_Salary":73921.33}
+{"Gender":"Female","City":"Dhaka","Total_Salary":68368.546875,"Average_Salary":68368.546875,"Min_Salary":68368.55,"Max_Salary":68368.55}
+{"Gender":"Male","City":"Mosteiros","Total_Salary":62508.87109375,"Average_Salary":62508.87109375,"Min_Salary":62508.87,"Max_Salary":62508.87}
+{"Gender":"Male","City":"Roanne","Total_Salary":93339.9921875,"Average_Salary":93339.9921875,"Min_Salary":93339.99,"Max_Salary":93339.99}
+{"Gender":"Female","City":"Eindhoven","Total_Salary":24042.099609375,"Average_Salary":24042.099609375,"Min_Salary":24042.1,"Max_Salary":24042.1}
+{"Gender":"Female","City":"Sanzao","Total_Salary":70049.46875,"Average_Salary":70049.46875,"Min_Salary":70049.47,"Max_Salary":70049.47}
+{"Gender":"Female","City":"Santa Rosa","Total_Salary":47887.0703125,"Average_Salary":47887.0703125,"Min_Salary":47887.07,"Max_Salary":47887.07}
+{"Gender":"Male","City":"Rongxing","Total_Salary":36273.80078125,"Average_Salary":36273.80078125,"Min_Salary":36273.8,"Max_Salary":36273.8}
+{"Gender":"Male","City":"Tangkou","Total_Salary":85083.3984375,"Average_Salary":85083.3984375,"Min_Salary":85083.4,"Max_Salary":85083.4}
+{"Gender":"Male","City":"Chalan Pago-Ordot Village","Total_Salary":72777.4765625,"Average_Salary":72777.4765625,"Min_Salary":72777.48,"Max_Salary":72777.48}
+{"Gender":"Female","City":"San Isidro","Total_Salary":83451.7421875,"Average_Salary":83451.7421875,"Min_Salary":83451.74,"Max_Salary":83451.74}
+{"Gender":"Female","City":"Vasilikón","Total_Salary":97121.8125,"Average_Salary":97121.8125,"Min_Salary":97121.81,"Max_Salary":97121.81}
+{"Gender":"Male","City":"Quán Hàu","Total_Salary":70236.328125,"Average_Salary":70236.328125,"Min_Salary":70236.33,"Max_Salary":70236.33}
+{"Gender":"Female","City":"Tambakrejo","Total_Salary":22750.5,"Average_Salary":22750.5,"Min_Salary":22750.5,"Max_Salary":22750.5}
+{"Gender":"Male","City":"Bīr Zayt","Total_Salary":49488.578125,"Average_Salary":49488.578125,"Min_Salary":49488.58,"Max_Salary":49488.58}
+{"Gender":"Male","City":"Shangjing","Total_Salary":55711.37890625,"Average_Salary":55711.37890625,"Min_Salary":55711.38,"Max_Salary":55711.38}
+{"Gender":"Male","City":"Núi Sập","Total_Salary":36160.91015625,"Average_Salary":36160.91015625,"Min_Salary":36160.91,"Max_Salary":36160.91}
+{"Gender":"Female","City":"St. Anton an der Jeßnitz","Total_Salary":89421.0078125,"Average_Salary":89421.0078125,"Min_Salary":89421.01,"Max_Salary":89421.01}
+{"Gender":"Male","City":"Novobiryusinskiy","Total_Salary":81698.25,"Average_Salary":81698.25,"Min_Salary":81698.25,"Max_Salary":81698.25}
+{"Gender":"Male","City":"Porsgrunn","Total_Salary":63518.6484375,"Average_Salary":63518.6484375,"Min_Salary":63518.65,"Max_Salary":63518.65}
+{"Gender":"Male","City":"Cipeundeuy","Total_Salary":90248.34375,"Average_Salary":90248.34375,"Min_Salary":90248.34,"Max_Salary":90248.34}
+{"Gender":"Male","City":"Wieczfnia Kościelna","Total_Salary":91685.3203125,"Average_Salary":91685.3203125,"Min_Salary":91685.32,"Max_Salary":91685.32}
+{"Gender":"Male","City":"San Vicente","Total_Salary":54163.62890625,"Average_Salary":54163.62890625,"Min_Salary":54163.63,"Max_Salary":54163.63}
+{"Gender":"Female","City":"Hezuoqiao","Total_Salary":92187.96875,"Average_Salary":92187.96875,"Min_Salary":92187.97,"Max_Salary":92187.97}
+{"Gender":"Female","City":"Krasnogvardeyets","Total_Salary":17541.83984375,"Average_Salary":17541.83984375,"Min_Salary":17541.84,"Max_Salary":17541.84}
+{"Gender":"Female","City":"Blagoevgrad","Total_Salary":86391.8203125,"Average_Salary":86391.8203125,"Min_Salary":86391.82,"Max_Salary":86391.82}
+{"Gender":"Female","City":"Golynki","Total_Salary":35622.75,"Average_Salary":35622.75,"Min_Salary":35622.75,"Max_Salary":35622.75}
+{"Gender":"Male","City":"Oytal","Total_Salary":89363.0078125,"Average_Salary":89363.0078125,"Min_Salary":89363.01,"Max_Salary":89363.01}
+{"Gender":"Male","City":"Phra Khanong","Total_Salary":29440.470703125,"Average_Salary":29440.470703125,"Min_Salary":29440.47,"Max_Salary":29440.47}
+{"Gender":"Female","City":"Kishiwada","Total_Salary":93177.7890625,"Average_Salary":93177.7890625,"Min_Salary":93177.79,"Max_Salary":93177.79}
+{"Gender":"Male","City":"Iraquara","Total_Salary":82493.921875,"Average_Salary":82493.921875,"Min_Salary":82493.92,"Max_Salary":82493.92}
+{"Gender":"Female","City":"La Ravoire","Total_Salary":13678.169921875,"Average_Salary":13678.169921875,"Min_Salary":13678.17,"Max_Salary":13678.17}
+{"Gender":"Male","City":"Duzhou","Total_Salary":66832.921875,"Average_Salary":66832.921875,"Min_Salary":66832.92,"Max_Salary":66832.92}
+{"Gender":"Male","City":"Burgau","Total_Salary":42895.44921875,"Average_Salary":42895.44921875,"Min_Salary":42895.45,"Max_Salary":42895.45}
+{"Gender":"Male","City":"Monze","Total_Salary":17134.9609375,"Average_Salary":17134.9609375,"Min_Salary":17134.96,"Max_Salary":17134.96}
+{"Gender":"Male","City":"San Narciso","Total_Salary":20781.119140625,"Average_Salary":20781.119140625,"Min_Salary":20781.12,"Max_Salary":20781.12}
+{"Gender":"Male","City":"Hägersten","Total_Salary":55313.1796875,"Average_Salary":55313.1796875,"Min_Salary":55313.18,"Max_Salary":55313.18}
+{"Gender":"Male","City":"Vila Viçosa","Total_Salary":44675.96875,"Average_Salary":44675.96875,"Min_Salary":44675.97,"Max_Salary":44675.97}
+{"Gender":"Male","City":"Sawahbaru","Total_Salary":99013.7109375,"Average_Salary":99013.7109375,"Min_Salary":99013.71,"Max_Salary":99013.71}
+{"Gender":"Male","City":"Hyrynsalmi","Total_Salary":52068.96875,"Average_Salary":52068.96875,"Min_Salary":52068.97,"Max_Salary":52068.97}
+{"Gender":"Male","City":"Nowosielce-Gniewosz","Total_Salary":38098.5,"Average_Salary":38098.5,"Min_Salary":38098.5,"Max_Salary":38098.5}
+{"Gender":"Female","City":"Esteio","Total_Salary":81976.7265625,"Average_Salary":81976.7265625,"Min_Salary":81976.73,"Max_Salary":81976.73}
+{"Gender":"Male","City":"Khong","Total_Salary":67614.2578125,"Average_Salary":67614.2578125,"Min_Salary":67614.26,"Max_Salary":67614.26}
+{"Gender":"Female","City":"Caromatan","Total_Salary":12772.66015625,"Average_Salary":12772.66015625,"Min_Salary":12772.66,"Max_Salary":12772.66}
+{"Gender":"Male","City":"Pont-à-Mousson","Total_Salary":88624.96875,"Average_Salary":88624.96875,"Min_Salary":88624.97,"Max_Salary":88624.97}
+{"Gender":"Female","City":"Trail","Total_Salary":24315.720703125,"Average_Salary":24315.720703125,"Min_Salary":24315.72,"Max_Salary":24315.72}
+{"Gender":"Female","City":"Brampton","Total_Salary":91924.46875,"Average_Salary":91924.46875,"Min_Salary":91924.47,"Max_Salary":91924.47}
+{"Gender":"Female","City":"Badarganj","Total_Salary":85368.5234375,"Average_Salary":85368.5234375,"Min_Salary":85368.52,"Max_Salary":85368.52}
+{"Gender":"Male","City":"Takeo","Total_Salary":79038.71875,"Average_Salary":79038.71875,"Min_Salary":79038.72,"Max_Salary":79038.72}
+{"Gender":"Female","City":"Tebingtinggi","Total_Salary":52767.76953125,"Average_Salary":52767.76953125,"Min_Salary":52767.77,"Max_Salary":52767.77}
+{"Gender":"Male","City":"Karangtawar","Total_Salary":99638.9921875,"Average_Salary":99638.9921875,"Min_Salary":99638.99,"Max_Salary":99638.99}
+{"Gender":"Female","City":"Tielou","Total_Salary":87248.53125,"Average_Salary":87248.53125,"Min_Salary":87248.53,"Max_Salary":87248.53}
+{"Gender":"Female","City":"Miðvágur","Total_Salary":60651.48046875,"Average_Salary":60651.48046875,"Min_Salary":60651.48,"Max_Salary":60651.48}
+{"Gender":"Female","City":"Lakateng","Total_Salary":35089.05078125,"Average_Salary":35089.05078125,"Min_Salary":35089.05,"Max_Salary":35089.05}
+{"Gender":"Female","City":"Vose’","Total_Salary":32389.919921875,"Average_Salary":32389.919921875,"Min_Salary":32389.92,"Max_Salary":32389.92}
+{"Gender":"Male","City":"Dubá","Total_Salary":28119.279296875,"Average_Salary":28119.279296875,"Min_Salary":28119.28,"Max_Salary":28119.28}
+{"Gender":"Female","City":"Kampene","Total_Salary":95927.2265625,"Average_Salary":95927.2265625,"Min_Salary":95927.23,"Max_Salary":95927.23}
+{"Gender":"Female","City":"Phanat Nikhom","Total_Salary":92586.9375,"Average_Salary":92586.9375,"Min_Salary":92586.94,"Max_Salary":92586.94}
+{"Gender":"Female","City":"Banjar Banyualit","Total_Salary":57365.1015625,"Average_Salary":57365.1015625,"Min_Salary":57365.1,"Max_Salary":57365.1}
+{"Gender":"Male","City":"Kisoro","Total_Salary":54239.26953125,"Average_Salary":54239.26953125,"Min_Salary":54239.27,"Max_Salary":54239.27}
+{"Gender":"Female","City":"Vodňany","Total_Salary":64781.2890625,"Average_Salary":64781.2890625,"Min_Salary":64781.29,"Max_Salary":64781.29}
+{"Gender":"Male","City":"Bajingmeduro","Total_Salary":11652.990234375,"Average_Salary":11652.990234375,"Min_Salary":11652.99,"Max_Salary":11652.99}
+{"Gender":"Male","City":"Ribeirinha","Total_Salary":90193.5625,"Average_Salary":90193.5625,"Min_Salary":90193.56,"Max_Salary":90193.56}
+{"Gender":"Female","City":"Rancho Nuevo","Total_Salary":49228.23828125,"Average_Salary":49228.23828125,"Min_Salary":49228.24,"Max_Salary":49228.24}
+{"Gender":"Male","City":"Rožmitál pod Třemšínem","Total_Salary":25529.880859375,"Average_Salary":25529.880859375,"Min_Salary":25529.88,"Max_Salary":25529.88}
+{"Gender":"Male","City":"Toroy","Total_Salary":62848.87109375,"Average_Salary":62848.87109375,"Min_Salary":62848.87,"Max_Salary":62848.87}
+{"Gender":"Female","City":"Chōfugaoka","Total_Salary":72918.1171875,"Average_Salary":72918.1171875,"Min_Salary":72918.12,"Max_Salary":72918.12}
+{"Gender":"Female","City":"Reriz","Total_Salary":26769.810546875,"Average_Salary":26769.810546875,"Min_Salary":26769.81,"Max_Salary":26769.81}
+{"Gender":"Male","City":"Dikwa","Total_Salary":39694.921875,"Average_Salary":39694.921875,"Min_Salary":39694.92,"Max_Salary":39694.92}
+{"Gender":"Female","City":"Caoyan","Total_Salary":20097.83984375,"Average_Salary":20097.83984375,"Min_Salary":20097.84,"Max_Salary":20097.84}
+{"Gender":"Female","City":"Kítsi","Total_Salary":31388.0703125,"Average_Salary":31388.0703125,"Min_Salary":31388.07,"Max_Salary":31388.07}
+{"Gender":"Female","City":"Třemošnice","Total_Salary":92915.359375,"Average_Salary":92915.359375,"Min_Salary":92915.36,"Max_Salary":92915.36}
+{"Gender":"Male","City":"Linglong","Total_Salary":94883.8515625,"Average_Salary":94883.8515625,"Min_Salary":94883.85,"Max_Salary":94883.85}
+{"Gender":"Male","City":"Osiek","Total_Salary":16977.98046875,"Average_Salary":16977.98046875,"Min_Salary":16977.98,"Max_Salary":16977.98}
+{"Gender":"Male","City":"Balazar","Total_Salary":36602.5703125,"Average_Salary":36602.5703125,"Min_Salary":36602.57,"Max_Salary":36602.57}
+{"Gender":"Female","City":"Hongmiao","Total_Salary":40968.05078125,"Average_Salary":40968.05078125,"Min_Salary":40968.05,"Max_Salary":40968.05}
+{"Gender":"Male","City":"Gérakas","Total_Salary":28896.439453125,"Average_Salary":28896.439453125,"Min_Salary":28896.44,"Max_Salary":28896.44}
+{"Gender":"Male","City":"Milín","Total_Salary":28882.970703125,"Average_Salary":28882.970703125,"Min_Salary":28882.97,"Max_Salary":28882.97}
+{"Gender":"Male","City":"Brooklyn","Total_Salary":17326.2890625,"Average_Salary":17326.2890625,"Min_Salary":17326.29,"Max_Salary":17326.29}
+{"Gender":"Female","City":"Tha Ruea","Total_Salary":74315.4296875,"Average_Salary":74315.4296875,"Min_Salary":74315.43,"Max_Salary":74315.43}
+{"Gender":"Male","City":"Lapu-Lapu City","Total_Salary":47631.98828125,"Average_Salary":47631.98828125,"Min_Salary":47631.99,"Max_Salary":47631.99}
+{"Gender":"Male","City":"Amorim","Total_Salary":60601.4296875,"Average_Salary":60601.4296875,"Min_Salary":60601.43,"Max_Salary":60601.43}
+{"Gender":"Female","City":"Ichinoseki","Total_Salary":78954.921875,"Average_Salary":78954.921875,"Min_Salary":78954.92,"Max_Salary":78954.92}
+{"Gender":"Male","City":"Rychtal","Total_Salary":90030.3515625,"Average_Salary":90030.3515625,"Min_Salary":90030.35,"Max_Salary":90030.35}
+{"Gender":"Female","City":"Clichy","Total_Salary":26236.0,"Average_Salary":26236.0,"Min_Salary":26236.0,"Max_Salary":26236.0}
+{"Gender":"Female","City":"Guangpu","Total_Salary":29341.94921875,"Average_Salary":29341.94921875,"Min_Salary":29341.95,"Max_Salary":29341.95}
+{"Gender":"Male","City":"Marjayoûn","Total_Salary":21209.669921875,"Average_Salary":21209.669921875,"Min_Salary":21209.67,"Max_Salary":21209.67}
+{"Gender":"Female","City":"Kembang","Total_Salary":88665.421875,"Average_Salary":88665.421875,"Min_Salary":88665.42,"Max_Salary":88665.42}
+{"Gender":"Male","City":"Alexandria","Total_Salary":38887.62109375,"Average_Salary":38887.62109375,"Min_Salary":38887.62,"Max_Salary":38887.62}
+{"Gender":"Male","City":"Kuala Lumpur","Total_Salary":121664.8828125,"Average_Salary":60832.44140625,"Min_Salary":42634.28,"Max_Salary":79030.6}
+{"Gender":"Female","City":"Dayanggezhuang","Total_Salary":78268.3203125,"Average_Salary":78268.3203125,"Min_Salary":78268.32,"Max_Salary":78268.32}
+{"Gender":"Female","City":"Sanshengyuan","Total_Salary":28926.94921875,"Average_Salary":28926.94921875,"Min_Salary":28926.95,"Max_Salary":28926.95}
+{"Gender":"Female","City":"Nambak Tengah","Total_Salary":92048.6796875,"Average_Salary":92048.6796875,"Min_Salary":92048.68,"Max_Salary":92048.68}
+{"Gender":"Female","City":"Hongzhou","Total_Salary":35707.30859375,"Average_Salary":35707.30859375,"Min_Salary":35707.31,"Max_Salary":35707.31}
+{"Gender":"Male","City":"Rontu","Total_Salary":52353.21875,"Average_Salary":52353.21875,"Min_Salary":52353.22,"Max_Salary":52353.22}
+{"Gender":"Male","City":"Gadžin Han","Total_Salary":58431.91015625,"Average_Salary":58431.91015625,"Min_Salary":58431.91,"Max_Salary":58431.91}
+{"Gender":"Female","City":"Monkayo","Total_Salary":93014.4921875,"Average_Salary":93014.4921875,"Min_Salary":93014.49,"Max_Salary":93014.49}
+{"Gender":"Female","City":"Ruokolahti","Total_Salary":68351.2109375,"Average_Salary":68351.2109375,"Min_Salary":68351.21,"Max_Salary":68351.21}
+{"Gender":"Female","City":"Mrganush","Total_Salary":35035.140625,"Average_Salary":35035.140625,"Min_Salary":35035.14,"Max_Salary":35035.14}
+{"Gender":"Female","City":"Presidencia Roque Sáenz Peña","Total_Salary":63690.1796875,"Average_Salary":63690.1796875,"Min_Salary":63690.18,"Max_Salary":63690.18}
+{"Gender":"Female","City":"Trảng Bàng","Total_Salary":43661.859375,"Average_Salary":43661.859375,"Min_Salary":43661.86,"Max_Salary":43661.86}
+{"Gender":"Female","City":"Bauchi","Total_Salary":71556.4375,"Average_Salary":71556.4375,"Min_Salary":71556.44,"Max_Salary":71556.44}
+{"Gender":"Male","City":"Rouen","Total_Salary":71799.0390625,"Average_Salary":71799.0390625,"Min_Salary":71799.04,"Max_Salary":71799.04}
+{"Gender":"Male","City":"Mabayo","Total_Salary":89474.4375,"Average_Salary":89474.4375,"Min_Salary":89474.44,"Max_Salary":89474.44}
+{"Gender":"Female","City":"Citalahab","Total_Salary":42011.1796875,"Average_Salary":42011.1796875,"Min_Salary":42011.18,"Max_Salary":42011.18}
+{"Gender":"Female","City":"Tayang","Total_Salary":40708.5703125,"Average_Salary":40708.5703125,"Min_Salary":40708.57,"Max_Salary":40708.57}
+{"Gender":"Male","City":"San Quintin","Total_Salary":31630.220703125,"Average_Salary":31630.220703125,"Min_Salary":31630.22,"Max_Salary":31630.22}
+{"Gender":"Male","City":"Santo Antônio do Monte","Total_Salary":17283.25,"Average_Salary":17283.25,"Min_Salary":17283.25,"Max_Salary":17283.25}
+{"Gender":"Male","City":"Domsjö","Total_Salary":79852.59375,"Average_Salary":79852.59375,"Min_Salary":79852.59,"Max_Salary":79852.59}
+{"Gender":"Male","City":"Mambi","Total_Salary":59255.4296875,"Average_Salary":59255.4296875,"Min_Salary":59255.43,"Max_Salary":59255.43}
+{"Gender":"Male","City":"Brampton","Total_Salary":13833.2998046875,"Average_Salary":13833.2998046875,"Min_Salary":13833.3,"Max_Salary":13833.3}
+{"Gender":"Male","City":"Obudovac","Total_Salary":63695.12890625,"Average_Salary":63695.12890625,"Min_Salary":63695.13,"Max_Salary":63695.13}
+{"Gender":"Female","City":"Messina","Total_Salary":69814.203125,"Average_Salary":69814.203125,"Min_Salary":69814.2,"Max_Salary":69814.2}
+{"Gender":"Male","City":"Kazanlŭk","Total_Salary":80257.8984375,"Average_Salary":80257.8984375,"Min_Salary":80257.9,"Max_Salary":80257.9}
+{"Gender":"Female","City":"Nezlobnaya","Total_Salary":20601.369140625,"Average_Salary":20601.369140625,"Min_Salary":20601.37,"Max_Salary":20601.37}
+{"Gender":"Female","City":"Sheshan","Total_Salary":77840.7890625,"Average_Salary":77840.7890625,"Min_Salary":77840.79,"Max_Salary":77840.79}
+{"Gender":"Male","City":"Matsushima","Total_Salary":74112.0703125,"Average_Salary":74112.0703125,"Min_Salary":74112.07,"Max_Salary":74112.07}
+{"Gender":"Female","City":"Ruda Maleniecka","Total_Salary":74150.9765625,"Average_Salary":74150.9765625,"Min_Salary":74150.98,"Max_Salary":74150.98}
+{"Gender":"Female","City":"Krajan Sumurtawang","Total_Salary":65823.5390625,"Average_Salary":65823.5390625,"Min_Salary":65823.54,"Max_Salary":65823.54}
+{"Gender":"Female","City":"Embu Guaçu","Total_Salary":32996.12890625,"Average_Salary":32996.12890625,"Min_Salary":32996.13,"Max_Salary":32996.13}
+{"Gender":"Male","City":"Goubétto","Total_Salary":64130.7890625,"Average_Salary":64130.7890625,"Min_Salary":64130.79,"Max_Salary":64130.79}
+{"Gender":"Female","City":"Chuanbu","Total_Salary":29159.599609375,"Average_Salary":29159.599609375,"Min_Salary":29159.6,"Max_Salary":29159.6}
+{"Gender":"Female","City":"Kakata","Total_Salary":90909.296875,"Average_Salary":90909.296875,"Min_Salary":90909.3,"Max_Salary":90909.3}
+{"Gender":"Female","City":"Balpyk Bī","Total_Salary":34294.609375,"Average_Salary":34294.609375,"Min_Salary":34294.61,"Max_Salary":34294.61}
+{"Gender":"Female","City":"Las Vegas","Total_Salary":97979.3125,"Average_Salary":97979.3125,"Min_Salary":97979.31,"Max_Salary":97979.31}
+{"Gender":"Female","City":"Ringinrejo","Total_Salary":35211.46875,"Average_Salary":35211.46875,"Min_Salary":35211.47,"Max_Salary":35211.47}
+{"Gender":"Female","City":"Freiria","Total_Salary":57323.4296875,"Average_Salary":57323.4296875,"Min_Salary":57323.43,"Max_Salary":57323.43}
+{"Gender":"Male","City":"Casal Galego","Total_Salary":42110.03125,"Average_Salary":42110.03125,"Min_Salary":42110.03,"Max_Salary":42110.03}
+{"Gender":"Female","City":"Kesheng","Total_Salary":20589.380859375,"Average_Salary":20589.380859375,"Min_Salary":20589.38,"Max_Salary":20589.38}
+{"Gender":"Male","City":"Prachin Buri","Total_Salary":23920.369140625,"Average_Salary":23920.369140625,"Min_Salary":23920.37,"Max_Salary":23920.37}
+{"Gender":"Female","City":"Salvacion","Total_Salary":90210.703125,"Average_Salary":90210.703125,"Min_Salary":90210.7,"Max_Salary":90210.7}
+{"Gender":"Female","City":"Gävle","Total_Salary":94513.3203125,"Average_Salary":94513.3203125,"Min_Salary":94513.32,"Max_Salary":94513.32}
+{"Gender":"Female","City":"Tiandiba","Total_Salary":11950.080078125,"Average_Salary":11950.080078125,"Min_Salary":11950.08,"Max_Salary":11950.08}
+{"Gender":"Female","City":"Gengwan","Total_Salary":67073.359375,"Average_Salary":67073.359375,"Min_Salary":67073.36,"Max_Salary":67073.36}
+{"Gender":"Female","City":"Registro","Total_Salary":43176.23046875,"Average_Salary":43176.23046875,"Min_Salary":43176.23,"Max_Salary":43176.23}
+{"Gender":"Male","City":"Évry","Total_Salary":77843.6796875,"Average_Salary":77843.6796875,"Min_Salary":77843.68,"Max_Salary":77843.68}
+{"Gender":"Female","City":"Mocupe","Total_Salary":89665.390625,"Average_Salary":89665.390625,"Min_Salary":89665.39,"Max_Salary":89665.39}
+{"Gender":"Male","City":"La Fortuna","Total_Salary":82146.3125,"Average_Salary":82146.3125,"Min_Salary":82146.31,"Max_Salary":82146.31}
+{"Gender":"Male","City":"Trmice","Total_Salary":41614.3515625,"Average_Salary":41614.3515625,"Min_Salary":41614.35,"Max_Salary":41614.35}
+{"Gender":"Female","City":"Daming","Total_Salary":50157.94140625,"Average_Salary":50157.94140625,"Min_Salary":50157.94,"Max_Salary":50157.94}
+{"Gender":"Male","City":"Liljendal","Total_Salary":36274.01171875,"Average_Salary":36274.01171875,"Min_Salary":36274.01,"Max_Salary":36274.01}
+{"Gender":"Male","City":"Chaloem Phra Kiat","Total_Salary":54840.19921875,"Average_Salary":54840.19921875,"Min_Salary":54840.2,"Max_Salary":54840.2}
+{"Gender":"Male","City":"Sa’erhusong","Total_Salary":89869.390625,"Average_Salary":89869.390625,"Min_Salary":89869.39,"Max_Salary":89869.39}
+{"Gender":"Male","City":"Guayaquil","Total_Salary":59911.109375,"Average_Salary":59911.109375,"Min_Salary":59911.11,"Max_Salary":59911.11}
+{"Gender":"Female","City":"Brokopondo","Total_Salary":48210.94921875,"Average_Salary":48210.94921875,"Min_Salary":48210.95,"Max_Salary":48210.95}
+{"Gender":"Male","City":"Jerada","Total_Salary":60656.25,"Average_Salary":60656.25,"Min_Salary":60656.25,"Max_Salary":60656.25}
+{"Gender":"Female","City":"Kỳ Anh","Total_Salary":42930.1796875,"Average_Salary":42930.1796875,"Min_Salary":42930.18,"Max_Salary":42930.18}
+{"Gender":"Female","City":"Santiago dos Velhos","Total_Salary":19591.109375,"Average_Salary":19591.109375,"Min_Salary":19591.11,"Max_Salary":19591.11}
+{"Gender":"Male","City":"Dayr as Sūdān","Total_Salary":78187.6484375,"Average_Salary":78187.6484375,"Min_Salary":78187.65,"Max_Salary":78187.65}
+{"Gender":"Male","City":"Gaopai","Total_Salary":14528.73046875,"Average_Salary":14528.73046875,"Min_Salary":14528.73,"Max_Salary":14528.73}
+{"Gender":"Male","City":"Mozdok","Total_Salary":31385.869140625,"Average_Salary":31385.869140625,"Min_Salary":31385.87,"Max_Salary":31385.87}
+{"Gender":"Male","City":"Tabaquite","Total_Salary":45929.4609375,"Average_Salary":45929.4609375,"Min_Salary":45929.46,"Max_Salary":45929.46}
+{"Gender":"Male","City":"Starotitarovskaya","Total_Salary":77556.3828125,"Average_Salary":77556.3828125,"Min_Salary":77556.38,"Max_Salary":77556.38}
+{"Gender":"Female","City":"Jiefang","Total_Salary":76969.671875,"Average_Salary":76969.671875,"Min_Salary":76969.67,"Max_Salary":76969.67}
+{"Gender":"Female","City":"Tafeng","Total_Salary":76648.15625,"Average_Salary":76648.15625,"Min_Salary":76648.16,"Max_Salary":76648.16}
+{"Gender":"Male","City":"Siguiri","Total_Salary":43934.359375,"Average_Salary":43934.359375,"Min_Salary":43934.36,"Max_Salary":43934.36}
+{"Gender":"Female","City":"Hongjiaguan","Total_Salary":94923.5703125,"Average_Salary":94923.5703125,"Min_Salary":94923.57,"Max_Salary":94923.57}
+{"Gender":"Female","City":"Mesopotam","Total_Salary":99948.28125,"Average_Salary":99948.28125,"Min_Salary":99948.28,"Max_Salary":99948.28}
+{"Gender":"Female","City":"Saint Louis","Total_Salary":36990.3203125,"Average_Salary":36990.3203125,"Min_Salary":36990.32,"Max_Salary":36990.32}
+{"Gender":"Male","City":"Partesh","Total_Salary":65911.4609375,"Average_Salary":65911.4609375,"Min_Salary":65911.46,"Max_Salary":65911.46}
+{"Gender":"Male","City":"Bradenton","Total_Salary":12246.73046875,"Average_Salary":12246.73046875,"Min_Salary":12246.73,"Max_Salary":12246.73}
+{"Gender":"Male","City":"Baku","Total_Salary":66825.296875,"Average_Salary":66825.296875,"Min_Salary":66825.3,"Max_Salary":66825.3}
+{"Gender":"Male","City":"Thetford-Mines","Total_Salary":93073.453125,"Average_Salary":93073.453125,"Min_Salary":93073.45,"Max_Salary":93073.45}
+{"Gender":"Female","City":"Krasna","Total_Salary":72022.7890625,"Average_Salary":72022.7890625,"Min_Salary":72022.79,"Max_Salary":72022.79}
+{"Gender":"Female","City":"Yuktae-dong","Total_Salary":99250.828125,"Average_Salary":99250.828125,"Min_Salary":99250.83,"Max_Salary":99250.83}
+{"Gender":"Male","City":"Ourtzagh","Total_Salary":49494.98828125,"Average_Salary":49494.98828125,"Min_Salary":49494.99,"Max_Salary":49494.99}
+{"Gender":"Male","City":"Kultayevo","Total_Salary":25707.7109375,"Average_Salary":25707.7109375,"Min_Salary":25707.71,"Max_Salary":25707.71}
+{"Gender":"Female","City":"Pombos","Total_Salary":22153.990234375,"Average_Salary":22153.990234375,"Min_Salary":22153.99,"Max_Salary":22153.99}
+{"Gender":"Female","City":"Cocachacra","Total_Salary":11077.080078125,"Average_Salary":11077.080078125,"Min_Salary":11077.08,"Max_Salary":11077.08}
+{"Gender":"Male","City":"Otradnaya","Total_Salary":38294.01171875,"Average_Salary":38294.01171875,"Min_Salary":38294.01,"Max_Salary":38294.01}
+{"Gender":"Female","City":"Miyata","Total_Salary":59339.3203125,"Average_Salary":59339.3203125,"Min_Salary":59339.32,"Max_Salary":59339.32}
+{"Gender":"Female","City":"Denver","Total_Salary":32952.390625,"Average_Salary":32952.390625,"Min_Salary":32952.39,"Max_Salary":32952.39}
+{"Gender":"Male","City":"Kupu","Total_Salary":49458.46875,"Average_Salary":49458.46875,"Min_Salary":49458.47,"Max_Salary":49458.47}
+{"Gender":"Female","City":"Nyaungdon","Total_Salary":32445.609375,"Average_Salary":32445.609375,"Min_Salary":32445.61,"Max_Salary":32445.61}
+{"Gender":"Male","City":"Sinyavino","Total_Salary":70980.1328125,"Average_Salary":70980.1328125,"Min_Salary":70980.13,"Max_Salary":70980.13}
+{"Gender":"Male","City":"Beiyang","Total_Salary":83836.421875,"Average_Salary":83836.421875,"Min_Salary":83836.42,"Max_Salary":83836.42}
+{"Gender":"Female","City":"Webuye","Total_Salary":99368.546875,"Average_Salary":99368.546875,"Min_Salary":99368.55,"Max_Salary":99368.55}
+{"Gender":"Male","City":"Melaka","Total_Salary":135305.95703125,"Average_Salary":67652.978515625,"Min_Salary":40562.7,"Max_Salary":94743.26}
+{"Gender":"Female","City":"Jantake","Total_Salary":48420.5,"Average_Salary":48420.5,"Min_Salary":48420.5,"Max_Salary":48420.5}
+{"Gender":"Male","City":"Finspång","Total_Salary":94374.5703125,"Average_Salary":94374.5703125,"Min_Salary":94374.57,"Max_Salary":94374.57}
+{"Gender":"Female","City":"Dąbie","Total_Salary":60123.609375,"Average_Salary":60123.609375,"Min_Salary":60123.61,"Max_Salary":60123.61}
+{"Gender":"Female","City":"Sanli","Total_Salary":73174.1875,"Average_Salary":73174.1875,"Min_Salary":73174.19,"Max_Salary":73174.19}
+{"Gender":"Male","City":"Banjar Kelodan","Total_Salary":51979.53125,"Average_Salary":51979.53125,"Min_Salary":51979.53,"Max_Salary":51979.53}
+{"Gender":"Male","City":"Pangawaren","Total_Salary":96462.59375,"Average_Salary":96462.59375,"Min_Salary":96462.59,"Max_Salary":96462.59}
+{"Gender":"Male","City":"Boynton Beach","Total_Salary":72537.7109375,"Average_Salary":72537.7109375,"Min_Salary":72537.71,"Max_Salary":72537.71}
+{"Gender":"Male","City":"Toyokawa","Total_Salary":12215.9501953125,"Average_Salary":12215.9501953125,"Min_Salary":12215.95,"Max_Salary":12215.95}
+{"Gender":"Female","City":"Burnaby","Total_Salary":27762.05078125,"Average_Salary":27762.05078125,"Min_Salary":27762.05,"Max_Salary":27762.05}
+{"Gender":"Male","City":"Xiang Ngeun","Total_Salary":78336.59375,"Average_Salary":78336.59375,"Min_Salary":78336.59,"Max_Salary":78336.59}
+{"Gender":"Female","City":"Esfarāyen","Total_Salary":39808.48046875,"Average_Salary":39808.48046875,"Min_Salary":39808.48,"Max_Salary":39808.48}
+{"Gender":"Male","City":"Foros do Trapo","Total_Salary":42135.671875,"Average_Salary":42135.671875,"Min_Salary":42135.67,"Max_Salary":42135.67}
+{"Gender":"Male","City":"Zhongcheng","Total_Salary":99942.921875,"Average_Salary":99942.921875,"Min_Salary":99942.92,"Max_Salary":99942.92}
+{"Gender":"Female","City":"Soca","Total_Salary":44953.48828125,"Average_Salary":44953.48828125,"Min_Salary":44953.49,"Max_Salary":44953.49}
+{"Gender":"Male","City":"Runović","Total_Salary":58200.359375,"Average_Salary":58200.359375,"Min_Salary":58200.36,"Max_Salary":58200.36}
+{"Gender":"Male","City":"Berber","Total_Salary":73827.8515625,"Average_Salary":73827.8515625,"Min_Salary":73827.85,"Max_Salary":73827.85}
+{"Gender":"Male","City":"Banyuresmi","Total_Salary":54164.41015625,"Average_Salary":54164.41015625,"Min_Salary":54164.41,"Max_Salary":54164.41}
+{"Gender":"Female","City":"São Brás de Alportel","Total_Salary":96823.1328125,"Average_Salary":96823.1328125,"Min_Salary":96823.13,"Max_Salary":96823.13}
+{"Gender":"Female","City":"Bojongbenteng","Total_Salary":80564.109375,"Average_Salary":80564.109375,"Min_Salary":80564.11,"Max_Salary":80564.11}
+{"Gender":"Female","City":"Madimba","Total_Salary":98737.8671875,"Average_Salary":98737.8671875,"Min_Salary":98737.87,"Max_Salary":98737.87}
+{"Gender":"Male","City":"Changuinola","Total_Salary":53137.80078125,"Average_Salary":53137.80078125,"Min_Salary":53137.8,"Max_Salary":53137.8}
+{"Gender":"Male","City":"Wugong","Total_Salary":62823.109375,"Average_Salary":62823.109375,"Min_Salary":62823.11,"Max_Salary":62823.11}
+{"Gender":"Female","City":"Sabang","Total_Salary":68018.328125,"Average_Salary":68018.328125,"Min_Salary":68018.33,"Max_Salary":68018.33}
+{"Gender":"Female","City":"Chon Buri","Total_Salary":69145.890625,"Average_Salary":69145.890625,"Min_Salary":69145.89,"Max_Salary":69145.89}
+{"Gender":"Male","City":"Carreira","Total_Salary":69829.640625,"Average_Salary":69829.640625,"Min_Salary":69829.64,"Max_Salary":69829.64}
+{"Gender":"Female","City":"Ōami","Total_Salary":36984.44140625,"Average_Salary":36984.44140625,"Min_Salary":36984.44,"Max_Salary":36984.44}
+{"Gender":"Female","City":"Miaoya","Total_Salary":83226.421875,"Average_Salary":83226.421875,"Min_Salary":83226.42,"Max_Salary":83226.42}
+{"Gender":"Male","City":"Ferrol","Total_Salary":19025.720703125,"Average_Salary":19025.720703125,"Min_Salary":19025.72,"Max_Salary":19025.72}
+{"Gender":"Female","City":"Laban","Total_Salary":87988.09375,"Average_Salary":87988.09375,"Min_Salary":87988.09,"Max_Salary":87988.09}
+{"Gender":"Female","City":"Lomme","Total_Salary":72160.421875,"Average_Salary":72160.421875,"Min_Salary":72160.42,"Max_Salary":72160.42}
+{"Gender":"Male","City":"Pignon","Total_Salary":66709.453125,"Average_Salary":66709.453125,"Min_Salary":66709.45,"Max_Salary":66709.45}
+{"Gender":"Male","City":"Kadurahayu","Total_Salary":56496.75,"Average_Salary":56496.75,"Min_Salary":56496.75,"Max_Salary":56496.75}
+{"Gender":"Female","City":"Dahuangwei","Total_Salary":66687.59375,"Average_Salary":66687.59375,"Min_Salary":66687.59,"Max_Salary":66687.59}
+{"Gender":"Male","City":"Aguaí","Total_Salary":56279.890625,"Average_Salary":56279.890625,"Min_Salary":56279.89,"Max_Salary":56279.89}
+{"Gender":"Male","City":"Prusice","Total_Salary":55731.78125,"Average_Salary":55731.78125,"Min_Salary":55731.78,"Max_Salary":55731.78}
+{"Gender":"Female","City":"Ayorou","Total_Salary":42273.421875,"Average_Salary":42273.421875,"Min_Salary":42273.42,"Max_Salary":42273.42}
+{"Gender":"Male","City":"Ḩajjah","Total_Salary":52017.76953125,"Average_Salary":52017.76953125,"Min_Salary":52017.77,"Max_Salary":52017.77}
+{"Gender":"Male","City":"Boto","Total_Salary":42845.12109375,"Average_Salary":42845.12109375,"Min_Salary":42845.12,"Max_Salary":42845.12}
+{"Gender":"Male","City":"Xiyuan","Total_Salary":58076.48828125,"Average_Salary":58076.48828125,"Min_Salary":58076.49,"Max_Salary":58076.49}
+{"Gender":"Male","City":"Filipowice","Total_Salary":35960.890625,"Average_Salary":35960.890625,"Min_Salary":35960.89,"Max_Salary":35960.89}
+{"Gender":"Male","City":"Santo Tomas","Total_Salary":88195.8125,"Average_Salary":88195.8125,"Min_Salary":88195.81,"Max_Salary":88195.81}
+{"Gender":"Female","City":"Hekou","Total_Salary":27902.3203125,"Average_Salary":27902.3203125,"Min_Salary":27902.32,"Max_Salary":27902.32}
+{"Gender":"Male","City":"Katima Mulilo","Total_Salary":96665.2421875,"Average_Salary":96665.2421875,"Min_Salary":96665.24,"Max_Salary":96665.24}
+{"Gender":"Male","City":"Telč","Total_Salary":22420.7109375,"Average_Salary":22420.7109375,"Min_Salary":22420.71,"Max_Salary":22420.71}
+{"Gender":"Female","City":"Lobuk","Total_Salary":12908.3798828125,"Average_Salary":12908.3798828125,"Min_Salary":12908.38,"Max_Salary":12908.38}
+{"Gender":"Male","City":"Karney Shomron","Total_Salary":92758.2578125,"Average_Salary":92758.2578125,"Min_Salary":92758.26,"Max_Salary":92758.26}
+{"Gender":"Female","City":"Sacanta","Total_Salary":78262.1484375,"Average_Salary":78262.1484375,"Min_Salary":78262.15,"Max_Salary":78262.15}
+{"Gender":"Female","City":"Manolás","Total_Salary":97232.78125,"Average_Salary":97232.78125,"Min_Salary":97232.78,"Max_Salary":97232.78}
+{"Gender":"Female","City":"Puger","Total_Salary":58241.1796875,"Average_Salary":58241.1796875,"Min_Salary":58241.18,"Max_Salary":58241.18}
+{"Gender":"Male","City":"Mabai","Total_Salary":92910.71875,"Average_Salary":92910.71875,"Min_Salary":92910.72,"Max_Salary":92910.72}
+{"Gender":"Male","City":"Corpus","Total_Salary":35178.1796875,"Average_Salary":35178.1796875,"Min_Salary":35178.18,"Max_Salary":35178.18}
+{"Gender":"Male","City":"Lluchubamba","Total_Salary":84527.0625,"Average_Salary":84527.0625,"Min_Salary":84527.06,"Max_Salary":84527.06}
+{"Gender":"Male","City":"Xijiao","Total_Salary":46200.7607421875,"Average_Salary":23100.38037109375,"Min_Salary":13708.03,"Max_Salary":32492.73}
+{"Gender":"Female","City":"Gharyan","Total_Salary":98679.3125,"Average_Salary":98679.3125,"Min_Salary":98679.31,"Max_Salary":98679.31}
+{"Gender":"Male","City":"Handaqi","Total_Salary":37728.6796875,"Average_Salary":37728.6796875,"Min_Salary":37728.68,"Max_Salary":37728.68}
+{"Gender":"Male","City":"Chubek","Total_Salary":69175.7265625,"Average_Salary":69175.7265625,"Min_Salary":69175.73,"Max_Salary":69175.73}
+{"Gender":"Male","City":"Umeå","Total_Salary":65110.05859375,"Average_Salary":65110.05859375,"Min_Salary":65110.06,"Max_Salary":65110.06}
+{"Gender":"Female","City":"Pyshchug","Total_Salary":22658.3203125,"Average_Salary":22658.3203125,"Min_Salary":22658.32,"Max_Salary":22658.32}
+{"Gender":"Female","City":"Cacheu","Total_Salary":13772.8203125,"Average_Salary":13772.8203125,"Min_Salary":13772.82,"Max_Salary":13772.82}
+{"Gender":"Male","City":"Sumurgayam","Total_Salary":84911.09375,"Average_Salary":84911.09375,"Min_Salary":84911.09,"Max_Salary":84911.09}
+{"Gender":"Female","City":"Silikatnyy","Total_Salary":37492.578125,"Average_Salary":37492.578125,"Min_Salary":37492.58,"Max_Salary":37492.58}
+{"Gender":"Female","City":"Ambelókipoi","Total_Salary":16676.560546875,"Average_Salary":16676.560546875,"Min_Salary":16676.56,"Max_Salary":16676.56}
+{"Gender":"Female","City":"Grenoble","Total_Salary":91579.9296875,"Average_Salary":91579.9296875,"Min_Salary":91579.93,"Max_Salary":91579.93}
+{"Gender":"Female","City":"Katsuta","Total_Salary":79717.859375,"Average_Salary":79717.859375,"Min_Salary":79717.86,"Max_Salary":79717.86}
+{"Gender":"Male","City":"Ortega","Total_Salary":55226.87109375,"Average_Salary":55226.87109375,"Min_Salary":55226.87,"Max_Salary":55226.87}
+{"Gender":"Male","City":"Longtan","Total_Salary":21357.30078125,"Average_Salary":21357.30078125,"Min_Salary":21357.3,"Max_Salary":21357.3}
+{"Gender":"Male","City":"Bryansk","Total_Salary":65252.3203125,"Average_Salary":65252.3203125,"Min_Salary":65252.32,"Max_Salary":65252.32}
+{"Gender":"Male","City":"Puerto Galera","Total_Salary":57799.69921875,"Average_Salary":57799.69921875,"Min_Salary":57799.7,"Max_Salary":57799.7}
+{"Gender":"Female","City":"Lanús","Total_Salary":86294.59375,"Average_Salary":86294.59375,"Min_Salary":86294.59,"Max_Salary":86294.59}
+{"Gender":"Female","City":"Angol","Total_Salary":43413.1484375,"Average_Salary":43413.1484375,"Min_Salary":43413.15,"Max_Salary":43413.15}
+{"Gender":"Female","City":"Duowa","Total_Salary":94301.46875,"Average_Salary":94301.46875,"Min_Salary":94301.47,"Max_Salary":94301.47}
+{"Gender":"Male","City":"Gualmatán","Total_Salary":88032.40625,"Average_Salary":88032.40625,"Min_Salary":88032.41,"Max_Salary":88032.41}
+{"Gender":"Female","City":"Punta de Piedra","Total_Salary":40385.80859375,"Average_Salary":40385.80859375,"Min_Salary":40385.81,"Max_Salary":40385.81}
+{"Gender":"Male","City":"Pétionville","Total_Salary":89197.4375,"Average_Salary":89197.4375,"Min_Salary":89197.44,"Max_Salary":89197.44}
+{"Gender":"Female","City":"Duozhu","Total_Salary":71416.859375,"Average_Salary":71416.859375,"Min_Salary":71416.86,"Max_Salary":71416.86}
+{"Gender":"Male","City":"Ardabīl","Total_Salary":64998.87890625,"Average_Salary":64998.87890625,"Min_Salary":64998.88,"Max_Salary":64998.88}
+{"Gender":"Male","City":"Ust’-Abakan","Total_Salary":54245.94140625,"Average_Salary":54245.94140625,"Min_Salary":54245.94,"Max_Salary":54245.94}
+{"Gender":"Female","City":"Rajapeni","Total_Salary":27026.69921875,"Average_Salary":27026.69921875,"Min_Salary":27026.7,"Max_Salary":27026.7}
+{"Gender":"Male","City":"Guohua","Total_Salary":48229.48046875,"Average_Salary":48229.48046875,"Min_Salary":48229.48,"Max_Salary":48229.48}
+{"Gender":"Male","City":"Shiren","Total_Salary":56867.78125,"Average_Salary":56867.78125,"Min_Salary":56867.78,"Max_Salary":56867.78}
+{"Gender":"Male","City":"Chimen","Total_Salary":74106.140625,"Average_Salary":74106.140625,"Min_Salary":74106.14,"Max_Salary":74106.14}
+{"Gender":"Female","City":"Nîmes","Total_Salary":42246.87109375,"Average_Salary":42246.87109375,"Min_Salary":42246.87,"Max_Salary":42246.87}
+{"Gender":"Male","City":"Comillas Norte","Total_Salary":47990.33984375,"Average_Salary":47990.33984375,"Min_Salary":47990.34,"Max_Salary":47990.34}
+{"Gender":"Female","City":"Ingeniero Guillermo N. Juárez","Total_Salary":80058.4296875,"Average_Salary":80058.4296875,"Min_Salary":80058.43,"Max_Salary":80058.43}
+{"Gender":"Male","City":"Munkfors","Total_Salary":85289.15625,"Average_Salary":85289.15625,"Min_Salary":85289.16,"Max_Salary":85289.16}
+{"Gender":"Female","City":"Mattawa","Total_Salary":87553.7265625,"Average_Salary":87553.7265625,"Min_Salary":87553.73,"Max_Salary":87553.73}
+{"Gender":"Male","City":"Michałów","Total_Salary":52960.87890625,"Average_Salary":52960.87890625,"Min_Salary":52960.88,"Max_Salary":52960.88}
+{"Gender":"Female","City":"Mungwi","Total_Salary":80418.2578125,"Average_Salary":80418.2578125,"Min_Salary":80418.26,"Max_Salary":80418.26}
+{"Gender":"Male","City":"Roma","Total_Salary":50699.30859375,"Average_Salary":50699.30859375,"Min_Salary":50699.31,"Max_Salary":50699.31}
+{"Gender":"Male","City":"Hongos","Total_Salary":81534.609375,"Average_Salary":81534.609375,"Min_Salary":81534.61,"Max_Salary":81534.61}
+{"Gender":"Male","City":"Margahayukencana","Total_Salary":74381.3203125,"Average_Salary":74381.3203125,"Min_Salary":74381.32,"Max_Salary":74381.32}
+{"Gender":"Female","City":"Hollola","Total_Salary":93969.0390625,"Average_Salary":93969.0390625,"Min_Salary":93969.04,"Max_Salary":93969.04}
+{"Gender":"Female","City":"Cassanayan","Total_Salary":16314.7900390625,"Average_Salary":16314.7900390625,"Min_Salary":16314.79,"Max_Salary":16314.79}
+{"Gender":"Female","City":"Skellefteå","Total_Salary":54621.01171875,"Average_Salary":54621.01171875,"Min_Salary":54621.01,"Max_Salary":54621.01}
+{"Gender":"Male","City":"Pirca","Total_Salary":74364.109375,"Average_Salary":74364.109375,"Min_Salary":74364.11,"Max_Salary":74364.11}
+{"Gender":"Female","City":"Philadelphia","Total_Salary":28222.830078125,"Average_Salary":28222.830078125,"Min_Salary":28222.83,"Max_Salary":28222.83}
+{"Gender":"Male","City":"Oss","Total_Salary":40392.23828125,"Average_Salary":40392.23828125,"Min_Salary":40392.24,"Max_Salary":40392.24}
+{"Gender":"Male","City":"Kashima","Total_Salary":60796.01953125,"Average_Salary":60796.01953125,"Min_Salary":60796.02,"Max_Salary":60796.02}
+{"Gender":"Male","City":"Chrást","Total_Salary":40163.03125,"Average_Salary":40163.03125,"Min_Salary":40163.03,"Max_Salary":40163.03}
+{"Gender":"Female","City":"Huangshi","Total_Salary":98690.34375,"Average_Salary":98690.34375,"Min_Salary":98690.34,"Max_Salary":98690.34}
+{"Gender":"Male","City":"Cuogang","Total_Salary":202341.990234375,"Average_Salary":50585.49755859375,"Min_Salary":11832.43,"Max_Salary":82505.36}
+{"Gender":"Male","City":"Balahovit","Total_Salary":74464.2578125,"Average_Salary":74464.2578125,"Min_Salary":74464.26,"Max_Salary":74464.26}
+{"Gender":"Male","City":"Hauhena","Total_Salary":38597.390625,"Average_Salary":38597.390625,"Min_Salary":38597.39,"Max_Salary":38597.39}
+{"Gender":"Female","City":"Leticia","Total_Salary":18561.109375,"Average_Salary":18561.109375,"Min_Salary":18561.11,"Max_Salary":18561.11}
+{"Gender":"Male","City":"Puyuan","Total_Salary":11224.169921875,"Average_Salary":11224.169921875,"Min_Salary":11224.17,"Max_Salary":11224.17}
+{"Gender":"Male","City":"Amphawa","Total_Salary":76400.890625,"Average_Salary":76400.890625,"Min_Salary":76400.89,"Max_Salary":76400.89}
+{"Gender":"Female","City":"El Salitre","Total_Salary":94859.078125,"Average_Salary":94859.078125,"Min_Salary":94859.08,"Max_Salary":94859.08}
+{"Gender":"Female","City":"Topeka","Total_Salary":71772.2734375,"Average_Salary":71772.2734375,"Min_Salary":71772.27,"Max_Salary":71772.27}
+{"Gender":"Male","City":"Pasiraman","Total_Salary":60930.23046875,"Average_Salary":60930.23046875,"Min_Salary":60930.23,"Max_Salary":60930.23}
+{"Gender":"Female","City":"Megalópoli","Total_Salary":17299.619140625,"Average_Salary":17299.619140625,"Min_Salary":17299.62,"Max_Salary":17299.62}
+{"Gender":"Female","City":"Yanjiang","Total_Salary":20768.759765625,"Average_Salary":20768.759765625,"Min_Salary":20768.76,"Max_Salary":20768.76}
+{"Gender":"Female","City":"Wojcieszków","Total_Salary":18163.55078125,"Average_Salary":18163.55078125,"Min_Salary":18163.55,"Max_Salary":18163.55}
+{"Gender":"Male","City":"Kizlyar","Total_Salary":69030.34375,"Average_Salary":69030.34375,"Min_Salary":69030.34,"Max_Salary":69030.34}
+{"Gender":"Male","City":"Kastornoye","Total_Salary":23794.1796875,"Average_Salary":23794.1796875,"Min_Salary":23794.18,"Max_Salary":23794.18}
+{"Gender":"Female","City":"Getengan","Total_Salary":23843.060546875,"Average_Salary":23843.060546875,"Min_Salary":23843.06,"Max_Salary":23843.06}
+{"Gender":"Male","City":"Tomsk","Total_Salary":16504.220703125,"Average_Salary":16504.220703125,"Min_Salary":16504.22,"Max_Salary":16504.22}
+{"Gender":"Male","City":"Zhuanqukou","Total_Salary":36208.1796875,"Average_Salary":36208.1796875,"Min_Salary":36208.18,"Max_Salary":36208.18}
+{"Gender":"Female","City":"Schiedam postbusnummers","Total_Salary":59352.01953125,"Average_Salary":59352.01953125,"Min_Salary":59352.02,"Max_Salary":59352.02}
+{"Gender":"Female","City":"Glatik","Total_Salary":19941.029296875,"Average_Salary":19941.029296875,"Min_Salary":19941.03,"Max_Salary":19941.03}
+{"Gender":"Female","City":"Fosca","Total_Salary":89451.1328125,"Average_Salary":89451.1328125,"Min_Salary":89451.13,"Max_Salary":89451.13}
+{"Gender":"Male","City":"Koygorodok","Total_Salary":52016.98828125,"Average_Salary":52016.98828125,"Min_Salary":52016.99,"Max_Salary":52016.99}
+{"Gender":"Male","City":"Tanjungluar","Total_Salary":38955.69921875,"Average_Salary":19477.849609375,"Min_Salary":16866.41,"Max_Salary":22089.29}
+{"Gender":"Female","City":"Uherce Mineralne","Total_Salary":47953.6015625,"Average_Salary":47953.6015625,"Min_Salary":47953.6,"Max_Salary":47953.6}
+{"Gender":"Female","City":"Mieścisko","Total_Salary":70627.009765625,"Average_Salary":35313.5048828125,"Min_Salary":18764.53,"Max_Salary":51862.48}
+{"Gender":"Male","City":"Hénin-Beaumont","Total_Salary":55082.75,"Average_Salary":55082.75,"Min_Salary":55082.75,"Max_Salary":55082.75}
+{"Gender":"Male","City":"Nong Muang Khai","Total_Salary":42221.44921875,"Average_Salary":42221.44921875,"Min_Salary":42221.45,"Max_Salary":42221.45}
+{"Gender":"Male","City":"Bual","Total_Salary":63399.421875,"Average_Salary":63399.421875,"Min_Salary":63399.42,"Max_Salary":63399.42}
+{"Gender":"Male","City":"San Juan Nepomuceno","Total_Salary":14139.3203125,"Average_Salary":14139.3203125,"Min_Salary":14139.32,"Max_Salary":14139.32}
+{"Gender":"Male","City":"Cergy-Pontoise","Total_Salary":62163.80078125,"Average_Salary":62163.80078125,"Min_Salary":62163.8,"Max_Salary":62163.8}
+{"Gender":"Female","City":"Stanisław Górny","Total_Salary":59112.5,"Average_Salary":59112.5,"Min_Salary":59112.5,"Max_Salary":59112.5}
+{"Gender":"Male","City":"Shreveport","Total_Salary":55344.4609375,"Average_Salary":55344.4609375,"Min_Salary":55344.46,"Max_Salary":55344.46}
+{"Gender":"Female","City":"Leżajsk","Total_Salary":90527.21875,"Average_Salary":90527.21875,"Min_Salary":90527.22,"Max_Salary":90527.22}
+{"Gender":"Male","City":"San Carlos","Total_Salary":25091.419921875,"Average_Salary":25091.419921875,"Min_Salary":25091.42,"Max_Salary":25091.42}
+{"Gender":"Female","City":"Rio das Ostras","Total_Salary":47099.8515625,"Average_Salary":47099.8515625,"Min_Salary":47099.85,"Max_Salary":47099.85}
+{"Gender":"Female","City":"Ust’-Kut","Total_Salary":50676.26953125,"Average_Salary":50676.26953125,"Min_Salary":50676.27,"Max_Salary":50676.27}
+{"Gender":"Female","City":"Kenscoff","Total_Salary":25525.55078125,"Average_Salary":25525.55078125,"Min_Salary":25525.55,"Max_Salary":25525.55}
+{"Gender":"Female","City":"Lleida","Total_Salary":18892.4609375,"Average_Salary":18892.4609375,"Min_Salary":18892.46,"Max_Salary":18892.46}
+{"Gender":"Male","City":"Ji’an","Total_Salary":91555.609375,"Average_Salary":91555.609375,"Min_Salary":91555.61,"Max_Salary":91555.61}
+{"Gender":"Male","City":"Ryazanskaya","Total_Salary":56653.69921875,"Average_Salary":56653.69921875,"Min_Salary":56653.7,"Max_Salary":56653.7}
+{"Gender":"Male","City":"Tengah","Total_Salary":39837.19140625,"Average_Salary":39837.19140625,"Min_Salary":39837.19,"Max_Salary":39837.19}
+{"Gender":"Male","City":"Misasi","Total_Salary":20105.439453125,"Average_Salary":20105.439453125,"Min_Salary":20105.44,"Max_Salary":20105.44}
+{"Gender":"Female","City":"Gaohe","Total_Salary":25341.6796875,"Average_Salary":25341.6796875,"Min_Salary":25341.68,"Max_Salary":25341.68}
+{"Gender":"Female","City":"Ipala","Total_Salary":87266.7734375,"Average_Salary":87266.7734375,"Min_Salary":87266.77,"Max_Salary":87266.77}
+{"Gender":"Male","City":"Komletinci","Total_Salary":60304.2890625,"Average_Salary":60304.2890625,"Min_Salary":60304.29,"Max_Salary":60304.29}
+{"Gender":"Male","City":"Nalinggou","Total_Salary":65765.4921875,"Average_Salary":65765.4921875,"Min_Salary":65765.49,"Max_Salary":65765.49}
+{"Gender":"Female","City":"El Cardo","Total_Salary":13604.6298828125,"Average_Salary":13604.6298828125,"Min_Salary":13604.63,"Max_Salary":13604.63}
+{"Gender":"Female","City":"Xiongzhang","Total_Salary":88610.2421875,"Average_Salary":88610.2421875,"Min_Salary":88610.24,"Max_Salary":88610.24}
+{"Gender":"Female","City":"Guihulñgan","Total_Salary":23657.919921875,"Average_Salary":23657.919921875,"Min_Salary":23657.92,"Max_Salary":23657.92}
+{"Gender":"Female","City":"Sanxing","Total_Salary":61419.55078125,"Average_Salary":61419.55078125,"Min_Salary":61419.55,"Max_Salary":61419.55}
+{"Gender":"Female","City":"Santa Rita","Total_Salary":10766.4296875,"Average_Salary":10766.4296875,"Min_Salary":10766.43,"Max_Salary":10766.43}
+{"Gender":"Male","City":"La Rioja","Total_Salary":28421.009765625,"Average_Salary":28421.009765625,"Min_Salary":28421.01,"Max_Salary":28421.01}
+{"Gender":"Male","City":"Caper","Total_Salary":78102.84375,"Average_Salary":78102.84375,"Min_Salary":78102.84,"Max_Salary":78102.84}
+{"Gender":"Male","City":"Sułkowice","Total_Salary":33432.98828125,"Average_Salary":33432.98828125,"Min_Salary":33432.99,"Max_Salary":33432.99}
+{"Gender":"Male","City":"Mexico","Total_Salary":57861.7890625,"Average_Salary":57861.7890625,"Min_Salary":57861.79,"Max_Salary":57861.79}
+{"Gender":"Male","City":"Litvínov","Total_Salary":35105.3515625,"Average_Salary":35105.3515625,"Min_Salary":35105.35,"Max_Salary":35105.35}
+{"Gender":"Female","City":"Juvisy-sur-Orge","Total_Salary":98177.4765625,"Average_Salary":98177.4765625,"Min_Salary":98177.48,"Max_Salary":98177.48}
+{"Gender":"Male","City":"Cầu Giấy","Total_Salary":17626.640625,"Average_Salary":17626.640625,"Min_Salary":17626.64,"Max_Salary":17626.64}
+{"Gender":"Female","City":"Zhenyuan","Total_Salary":24102.94921875,"Average_Salary":24102.94921875,"Min_Salary":24102.95,"Max_Salary":24102.95}
+{"Gender":"Male","City":"Bilohirs’k","Total_Salary":51271.98828125,"Average_Salary":51271.98828125,"Min_Salary":51271.99,"Max_Salary":51271.99}
+{"Gender":"Male","City":"Asopía","Total_Salary":72816.5390625,"Average_Salary":72816.5390625,"Min_Salary":72816.54,"Max_Salary":72816.54}
+{"Gender":"Female","City":"Tazouta","Total_Salary":73737.71875,"Average_Salary":73737.71875,"Min_Salary":73737.72,"Max_Salary":73737.72}
+{"Gender":"Male","City":"Lancaster","Total_Salary":68961.703125,"Average_Salary":68961.703125,"Min_Salary":68961.7,"Max_Salary":68961.7}
+{"Gender":"Male","City":"Kebon","Total_Salary":50278.8984375,"Average_Salary":50278.8984375,"Min_Salary":50278.9,"Max_Salary":50278.9}
+{"Gender":"Female","City":"Jiashi","Total_Salary":23456.669921875,"Average_Salary":23456.669921875,"Min_Salary":23456.67,"Max_Salary":23456.67}
+{"Gender":"Female","City":"Murmashi","Total_Salary":98226.15625,"Average_Salary":98226.15625,"Min_Salary":98226.16,"Max_Salary":98226.16}
+{"Gender":"Female","City":"Bamencheng","Total_Salary":15755.3603515625,"Average_Salary":15755.3603515625,"Min_Salary":15755.36,"Max_Salary":15755.36}
+{"Gender":"Female","City":"Sarmanovo","Total_Salary":12788.1298828125,"Average_Salary":12788.1298828125,"Min_Salary":12788.13,"Max_Salary":12788.13}
+{"Gender":"Male","City":"Nggalak","Total_Salary":31690.720703125,"Average_Salary":31690.720703125,"Min_Salary":31690.72,"Max_Salary":31690.72}
+{"Gender":"Female","City":"Whitwell","Total_Salary":71226.890625,"Average_Salary":71226.890625,"Min_Salary":71226.89,"Max_Salary":71226.89}
+{"Gender":"Female","City":"Sibbo","Total_Salary":16687.099609375,"Average_Salary":16687.099609375,"Min_Salary":16687.1,"Max_Salary":16687.1}
+{"Gender":"Female","City":"Kunting","Total_Salary":94702.5,"Average_Salary":94702.5,"Min_Salary":94702.5,"Max_Salary":94702.5}
+{"Gender":"Male","City":"Karlovy Vary","Total_Salary":46071.12890625,"Average_Salary":46071.12890625,"Min_Salary":46071.13,"Max_Salary":46071.13}
+{"Gender":"Female","City":"Fonte Boa","Total_Salary":30039.869140625,"Average_Salary":30039.869140625,"Min_Salary":30039.87,"Max_Salary":30039.87}
+{"Gender":"Female","City":"Oygon","Total_Salary":64614.46875,"Average_Salary":64614.46875,"Min_Salary":64614.47,"Max_Salary":64614.47}
+{"Gender":"Male","City":"Irirum","Total_Salary":77809.5078125,"Average_Salary":77809.5078125,"Min_Salary":77809.51,"Max_Salary":77809.51}
+{"Gender":"Female","City":"Ampanihy","Total_Salary":95283.96875,"Average_Salary":95283.96875,"Min_Salary":95283.97,"Max_Salary":95283.97}
+{"Gender":"Male","City":"Dokuchayevs’k","Total_Salary":59545.48046875,"Average_Salary":59545.48046875,"Min_Salary":59545.48,"Max_Salary":59545.48}
+{"Gender":"Male","City":"Xin’e","Total_Salary":62755.8515625,"Average_Salary":62755.8515625,"Min_Salary":62755.85,"Max_Salary":62755.85}
+{"Gender":"Female","City":"Kaiapoi","Total_Salary":51894.05859375,"Average_Salary":51894.05859375,"Min_Salary":51894.06,"Max_Salary":51894.06}
+{"Gender":"Female","City":"Baoshui","Total_Salary":11084.33984375,"Average_Salary":11084.33984375,"Min_Salary":11084.34,"Max_Salary":11084.34}
+{"Gender":"Male","City":"Shamakhi","Total_Salary":65228.6796875,"Average_Salary":65228.6796875,"Min_Salary":65228.68,"Max_Salary":65228.68}
+{"Gender":"Male","City":"Périgny","Total_Salary":62022.921875,"Average_Salary":62022.921875,"Min_Salary":62022.92,"Max_Salary":62022.92}
+{"Gender":"Male","City":"Polańczyk","Total_Salary":98086.046875,"Average_Salary":98086.046875,"Min_Salary":98086.05,"Max_Salary":98086.05}
+{"Gender":"Male","City":"Las Minas","Total_Salary":52100.578125,"Average_Salary":52100.578125,"Min_Salary":52100.58,"Max_Salary":52100.58}
+{"Gender":"Male","City":"Az Zuwaytīnah","Total_Salary":29417.7109375,"Average_Salary":29417.7109375,"Min_Salary":29417.71,"Max_Salary":29417.71}
+{"Gender":"Male","City":"Paris 02","Total_Salary":44940.19921875,"Average_Salary":44940.19921875,"Min_Salary":44940.2,"Max_Salary":44940.2}
+{"Gender":"Male","City":"Soi Dao","Total_Salary":69526.2265625,"Average_Salary":69526.2265625,"Min_Salary":69526.23,"Max_Salary":69526.23}
+{"Gender":"Female","City":"Kajaani","Total_Salary":20224.83984375,"Average_Salary":20224.83984375,"Min_Salary":20224.84,"Max_Salary":20224.84}
+{"Gender":"Male","City":"Trang","Total_Salary":93239.1875,"Average_Salary":93239.1875,"Min_Salary":93239.19,"Max_Salary":93239.19}
+{"Gender":"Female","City":"Al Badārī","Total_Salary":94889.5078125,"Average_Salary":94889.5078125,"Min_Salary":94889.51,"Max_Salary":94889.51}
+{"Gender":"Male","City":"Villa del Rosario","Total_Salary":52018.4609375,"Average_Salary":52018.4609375,"Min_Salary":52018.46,"Max_Salary":52018.46}
+{"Gender":"Female","City":"Varadero","Total_Salary":66530.3984375,"Average_Salary":66530.3984375,"Min_Salary":66530.4,"Max_Salary":66530.4}
+{"Gender":"Female","City":"Esuk Oron","Total_Salary":30995.490234375,"Average_Salary":30995.490234375,"Min_Salary":30995.49,"Max_Salary":30995.49}
+{"Gender":"Male","City":"Argostólion","Total_Salary":12281.2001953125,"Average_Salary":12281.2001953125,"Min_Salary":12281.2,"Max_Salary":12281.2}
+{"Gender":"Male","City":"Antas","Total_Salary":92500.9609375,"Average_Salary":92500.9609375,"Min_Salary":92500.96,"Max_Salary":92500.96}
+{"Gender":"Female","City":"San Andres","Total_Salary":52426.80078125,"Average_Salary":52426.80078125,"Min_Salary":52426.8,"Max_Salary":52426.8}
+{"Gender":"Female","City":"Chifeng","Total_Salary":41790.2890625,"Average_Salary":41790.2890625,"Min_Salary":41790.29,"Max_Salary":41790.29}
+{"Gender":"Female","City":"Nan’ao","Total_Salary":95218.390625,"Average_Salary":95218.390625,"Min_Salary":95218.39,"Max_Salary":95218.39}
+{"Gender":"Male","City":"Bangbayang Kaler","Total_Salary":48986.37890625,"Average_Salary":48986.37890625,"Min_Salary":48986.38,"Max_Salary":48986.38}
+{"Gender":"Male","City":"Guarenas","Total_Salary":52773.30859375,"Average_Salary":52773.30859375,"Min_Salary":52773.31,"Max_Salary":52773.31}
+{"Gender":"Female","City":"Limenária","Total_Salary":66705.7265625,"Average_Salary":66705.7265625,"Min_Salary":66705.73,"Max_Salary":66705.73}
+{"Gender":"Male","City":"Modimolle","Total_Salary":74282.859375,"Average_Salary":74282.859375,"Min_Salary":74282.86,"Max_Salary":74282.86}
+{"Gender":"Male","City":"Glinka","Total_Salary":94839.5625,"Average_Salary":94839.5625,"Min_Salary":94839.56,"Max_Salary":94839.56}
+{"Gender":"Female","City":"Jiupu","Total_Salary":35165.421875,"Average_Salary":35165.421875,"Min_Salary":35165.42,"Max_Salary":35165.42}
+{"Gender":"Female","City":"Gongdao","Total_Salary":40437.2890625,"Average_Salary":40437.2890625,"Min_Salary":40437.29,"Max_Salary":40437.29}
+{"Gender":"Female","City":"Dahua","Total_Salary":28120.009765625,"Average_Salary":28120.009765625,"Min_Salary":28120.01,"Max_Salary":28120.01}
+{"Gender":"Male","City":"Oleiros","Total_Salary":89036.109375,"Average_Salary":89036.109375,"Min_Salary":89036.11,"Max_Salary":89036.11}
+{"Gender":"Female","City":"Kamnica","Total_Salary":34518.87109375,"Average_Salary":34518.87109375,"Min_Salary":34518.87,"Max_Salary":34518.87}
+{"Gender":"Male","City":"Nanortalik","Total_Salary":33966.41015625,"Average_Salary":33966.41015625,"Min_Salary":33966.41,"Max_Salary":33966.41}
+{"Gender":"Male","City":"Zinder","Total_Salary":99222.84375,"Average_Salary":99222.84375,"Min_Salary":99222.84,"Max_Salary":99222.84}
+{"Gender":"Male","City":"Kuantan","Total_Salary":66460.2734375,"Average_Salary":66460.2734375,"Min_Salary":66460.27,"Max_Salary":66460.27}
+{"Gender":"Male","City":"Pochep","Total_Salary":26416.619140625,"Average_Salary":26416.619140625,"Min_Salary":26416.62,"Max_Salary":26416.62}
+{"Gender":"Female","City":"Šluknov","Total_Salary":49332.48046875,"Average_Salary":49332.48046875,"Min_Salary":49332.48,"Max_Salary":49332.48}
+{"Gender":"Female","City":"Beishidian","Total_Salary":21091.80078125,"Average_Salary":21091.80078125,"Min_Salary":21091.8,"Max_Salary":21091.8}
+{"Gender":"Male","City":"Islamey","Total_Salary":93275.421875,"Average_Salary":93275.421875,"Min_Salary":93275.42,"Max_Salary":93275.42}
+{"Gender":"Female","City":"Sumberagung","Total_Salary":44627.30078125,"Average_Salary":44627.30078125,"Min_Salary":44627.3,"Max_Salary":44627.3}
+{"Gender":"Female","City":"Calebasses","Total_Salary":77236.359375,"Average_Salary":77236.359375,"Min_Salary":77236.36,"Max_Salary":77236.36}
+{"Gender":"Male","City":"Lizhai","Total_Salary":88602.7421875,"Average_Salary":88602.7421875,"Min_Salary":88602.74,"Max_Salary":88602.74}
+{"Gender":"Female","City":"Mojo","Total_Salary":59886.05078125,"Average_Salary":59886.05078125,"Min_Salary":59886.05,"Max_Salary":59886.05}
+{"Gender":"Male","City":"Gajrug","Total_Salary":46117.51953125,"Average_Salary":46117.51953125,"Min_Salary":46117.52,"Max_Salary":46117.52}
+{"Gender":"Female","City":"Palumbungan","Total_Salary":63733.05078125,"Average_Salary":63733.05078125,"Min_Salary":63733.05,"Max_Salary":63733.05}
+{"Gender":"Female","City":"Pangnirtung","Total_Salary":94224.4765625,"Average_Salary":94224.4765625,"Min_Salary":94224.48,"Max_Salary":94224.48}
+{"Gender":"Male","City":"Monte Leite","Total_Salary":32623.849609375,"Average_Salary":32623.849609375,"Min_Salary":32623.85,"Max_Salary":32623.85}
+{"Gender":"Male","City":"Xindian","Total_Salary":57804.078125,"Average_Salary":57804.078125,"Min_Salary":57804.08,"Max_Salary":57804.08}
+{"Gender":"Female","City":"Bertioga","Total_Salary":28885.490234375,"Average_Salary":28885.490234375,"Min_Salary":28885.49,"Max_Salary":28885.49}
+{"Gender":"Male","City":"Guimbal","Total_Salary":22341.169921875,"Average_Salary":22341.169921875,"Min_Salary":22341.17,"Max_Salary":22341.17}
+{"Gender":"Male","City":"Xin’an","Total_Salary":49331.3984375,"Average_Salary":49331.3984375,"Min_Salary":49331.4,"Max_Salary":49331.4}
+{"Gender":"Male","City":"Zhuxi","Total_Salary":15849.419921875,"Average_Salary":15849.419921875,"Min_Salary":15849.42,"Max_Salary":15849.42}
+{"Gender":"Male","City":"Palmas De Gran Canaria, Las","Total_Salary":91642.2421875,"Average_Salary":91642.2421875,"Min_Salary":91642.24,"Max_Salary":91642.24}
+{"Gender":"Male","City":"Villa Paula de Sarmiento","Total_Salary":94648.5078125,"Average_Salary":94648.5078125,"Min_Salary":94648.51,"Max_Salary":94648.51}
+{"Gender":"Male","City":"Yanglin","Total_Salary":13149.16015625,"Average_Salary":13149.16015625,"Min_Salary":13149.16,"Max_Salary":13149.16}
+{"Gender":"Female","City":"Lindavista","Total_Salary":66461.7109375,"Average_Salary":66461.7109375,"Min_Salary":66461.71,"Max_Salary":66461.71}
+{"Gender":"Female","City":"Donostia-San Sebastian","Total_Salary":69239.2109375,"Average_Salary":69239.2109375,"Min_Salary":69239.21,"Max_Salary":69239.21}
+{"Gender":"Female","City":"Santa Tecla","Total_Salary":57635.05078125,"Average_Salary":57635.05078125,"Min_Salary":57635.05,"Max_Salary":57635.05}
+{"Gender":"Male","City":"Horodyshche","Total_Salary":23203.4296875,"Average_Salary":23203.4296875,"Min_Salary":23203.43,"Max_Salary":23203.43}
+{"Gender":"Female","City":"Cértegui","Total_Salary":21951.41015625,"Average_Salary":21951.41015625,"Min_Salary":21951.41,"Max_Salary":21951.41}
+{"Gender":"Male","City":"Montecillo","Total_Salary":94615.4765625,"Average_Salary":94615.4765625,"Min_Salary":94615.48,"Max_Salary":94615.48}
+{"Gender":"Female","City":"Nanzhao Chengguanzhen","Total_Salary":84407.046875,"Average_Salary":84407.046875,"Min_Salary":84407.05,"Max_Salary":84407.05}
+{"Gender":"Male","City":"Nar'yan-Mar","Total_Salary":21311.740234375,"Average_Salary":21311.740234375,"Min_Salary":21311.74,"Max_Salary":21311.74}
+{"Gender":"Female","City":"Virginia","Total_Salary":67823.453125,"Average_Salary":67823.453125,"Min_Salary":67823.45,"Max_Salary":67823.45}
+{"Gender":"Male","City":"Panggungrejo","Total_Salary":69033.203125,"Average_Salary":69033.203125,"Min_Salary":69033.2,"Max_Salary":69033.2}
+{"Gender":"Female","City":"Xitou","Total_Salary":71279.6015625,"Average_Salary":71279.6015625,"Min_Salary":71279.6,"Max_Salary":71279.6}
+{"Gender":"Female","City":"Isfahan","Total_Salary":30201.3203125,"Average_Salary":30201.3203125,"Min_Salary":30201.32,"Max_Salary":30201.32}
+{"Gender":"Male","City":"Petrovsk","Total_Salary":14012.830078125,"Average_Salary":14012.830078125,"Min_Salary":14012.83,"Max_Salary":14012.83}
+{"Gender":"Male","City":"Bailang","Total_Salary":86886.6171875,"Average_Salary":86886.6171875,"Min_Salary":86886.62,"Max_Salary":86886.62}
+{"Gender":"Female","City":"Dongtou","Total_Salary":72644.7421875,"Average_Salary":72644.7421875,"Min_Salary":72644.74,"Max_Salary":72644.74}
+{"Gender":"Male","City":"Lamego","Total_Salary":64970.8515625,"Average_Salary":64970.8515625,"Min_Salary":64970.85,"Max_Salary":64970.85}
+{"Gender":"Male","City":"Gyodong","Total_Salary":74819.5234375,"Average_Salary":74819.5234375,"Min_Salary":74819.52,"Max_Salary":74819.52}
+{"Gender":"Male","City":"Jandir","Total_Salary":90918.6171875,"Average_Salary":90918.6171875,"Min_Salary":90918.62,"Max_Salary":90918.62}
+{"Gender":"Female","City":"Tromsø","Total_Salary":43382.6015625,"Average_Salary":43382.6015625,"Min_Salary":43382.6,"Max_Salary":43382.6}
+{"Gender":"Female","City":"Cuogang","Total_Salary":10908.2197265625,"Average_Salary":10908.2197265625,"Min_Salary":10908.22,"Max_Salary":10908.22}
+{"Gender":"Male","City":"Pindi Gheb","Total_Salary":72878.359375,"Average_Salary":72878.359375,"Min_Salary":72878.36,"Max_Salary":72878.36}
+{"Gender":"Female","City":"Heshui","Total_Salary":85375.9296875,"Average_Salary":85375.9296875,"Min_Salary":85375.93,"Max_Salary":85375.93}
+{"Gender":"Female","City":"Mineralnye Vody","Total_Salary":73810.3671875,"Average_Salary":73810.3671875,"Min_Salary":73810.37,"Max_Salary":73810.37}
+{"Gender":"Female","City":"Xinzhou","Total_Salary":81861.8828125,"Average_Salary":81861.8828125,"Min_Salary":81861.88,"Max_Salary":81861.88}
+{"Gender":"Female","City":"Gostovići","Total_Salary":88810.4609375,"Average_Salary":88810.4609375,"Min_Salary":88810.46,"Max_Salary":88810.46}
+{"Gender":"Male","City":"Kratié","Total_Salary":32657.16015625,"Average_Salary":32657.16015625,"Min_Salary":32657.16,"Max_Salary":32657.16}
+{"Gender":"Male","City":"Lengshuitan","Total_Salary":94971.4921875,"Average_Salary":94971.4921875,"Min_Salary":94971.49,"Max_Salary":94971.49}
+{"Gender":"Female","City":"Noling","Total_Salary":64281.87890625,"Average_Salary":64281.87890625,"Min_Salary":64281.88,"Max_Salary":64281.88}
+{"Gender":"Male","City":"Godong","Total_Salary":39141.7109375,"Average_Salary":39141.7109375,"Min_Salary":39141.71,"Max_Salary":39141.71}
+{"Gender":"Female","City":"Yŏnan-ŭp","Total_Salary":98628.609375,"Average_Salary":98628.609375,"Min_Salary":98628.61,"Max_Salary":98628.61}
+{"Gender":"Male","City":"Ad Dimnah","Total_Salary":70973.3515625,"Average_Salary":70973.3515625,"Min_Salary":70973.35,"Max_Salary":70973.35}
+{"Gender":"Female","City":"Kupiskis","Total_Salary":85799.53125,"Average_Salary":85799.53125,"Min_Salary":85799.53,"Max_Salary":85799.53}
+{"Gender":"Female","City":"Pasirreungit","Total_Salary":93902.3671875,"Average_Salary":93902.3671875,"Min_Salary":93902.37,"Max_Salary":93902.37}
+{"Gender":"Female","City":"Město","Total_Salary":27797.98046875,"Average_Salary":27797.98046875,"Min_Salary":27797.98,"Max_Salary":27797.98}
+{"Gender":"Male","City":"Asahi","Total_Salary":22727.94921875,"Average_Salary":22727.94921875,"Min_Salary":22727.95,"Max_Salary":22727.95}
+{"Gender":"Male","City":"Warmare","Total_Salary":90661.4609375,"Average_Salary":90661.4609375,"Min_Salary":90661.46,"Max_Salary":90661.46}
+{"Gender":"Male","City":"Chorente","Total_Salary":27607.599609375,"Average_Salary":27607.599609375,"Min_Salary":27607.6,"Max_Salary":27607.6}
+{"Gender":"Male","City":"West Jerusalem","Total_Salary":71282.2890625,"Average_Salary":71282.2890625,"Min_Salary":71282.29,"Max_Salary":71282.29}
+{"Gender":"Male","City":"Puutuga","Total_Salary":19122.990234375,"Average_Salary":19122.990234375,"Min_Salary":19122.99,"Max_Salary":19122.99}
+{"Gender":"Male","City":"Gaspar Hernández","Total_Salary":26604.380859375,"Average_Salary":26604.380859375,"Min_Salary":26604.38,"Max_Salary":26604.38}
+{"Gender":"Male","City":"Velyka Lepetykha","Total_Salary":66552.3203125,"Average_Salary":66552.3203125,"Min_Salary":66552.32,"Max_Salary":66552.32}
+{"Gender":"Male","City":"Jetafe","Total_Salary":45643.01953125,"Average_Salary":45643.01953125,"Min_Salary":45643.02,"Max_Salary":45643.02}
+{"Gender":"Female","City":"Copán","Total_Salary":110448.125,"Average_Salary":55224.0625,"Min_Salary":40069.9,"Max_Salary":70378.23}
+{"Gender":"Female","City":"Tlatah","Total_Salary":53573.19140625,"Average_Salary":53573.19140625,"Min_Salary":53573.19,"Max_Salary":53573.19}
+{"Gender":"Female","City":"Predavac","Total_Salary":42166.96875,"Average_Salary":42166.96875,"Min_Salary":42166.97,"Max_Salary":42166.97}
+{"Gender":"Male","City":"Kylmäkoski","Total_Salary":71013.5625,"Average_Salary":71013.5625,"Min_Salary":71013.56,"Max_Salary":71013.56}
+{"Gender":"Male","City":"Buawan","Total_Salary":40183.5,"Average_Salary":40183.5,"Min_Salary":40183.5,"Max_Salary":40183.5}
+{"Gender":"Female","City":"Tambulatana","Total_Salary":26980.55078125,"Average_Salary":26980.55078125,"Min_Salary":26980.55,"Max_Salary":26980.55}
+{"Gender":"Female","City":"Rozkishne","Total_Salary":29384.720703125,"Average_Salary":29384.720703125,"Min_Salary":29384.72,"Max_Salary":29384.72}
+{"Gender":"Male","City":"Ovruch","Total_Salary":40880.0,"Average_Salary":40880.0,"Min_Salary":40880.0,"Max_Salary":40880.0}
+{"Gender":"Female","City":"Kavýli","Total_Salary":63792.2109375,"Average_Salary":63792.2109375,"Min_Salary":63792.21,"Max_Salary":63792.21}
+{"Gender":"Female","City":"Guay","Total_Salary":88156.0,"Average_Salary":88156.0,"Min_Salary":88156.0,"Max_Salary":88156.0}
+{"Gender":"Male","City":"Wangchang","Total_Salary":36927.53125,"Average_Salary":36927.53125,"Min_Salary":36927.53,"Max_Salary":36927.53}
+{"Gender":"Female","City":"Dengok","Total_Salary":28369.849609375,"Average_Salary":28369.849609375,"Min_Salary":28369.85,"Max_Salary":28369.85}
+{"Gender":"Male","City":"Puyehue","Total_Salary":51163.6796875,"Average_Salary":51163.6796875,"Min_Salary":51163.68,"Max_Salary":51163.68}
+{"Gender":"Male","City":"Baoyou","Total_Salary":22066.55078125,"Average_Salary":22066.55078125,"Min_Salary":22066.55,"Max_Salary":22066.55}
+{"Gender":"Female","City":"Leninsk","Total_Salary":82739.4375,"Average_Salary":82739.4375,"Min_Salary":82739.44,"Max_Salary":82739.44}
+{"Gender":"Female","City":"Pongkor","Total_Salary":44539.16015625,"Average_Salary":44539.16015625,"Min_Salary":44539.16,"Max_Salary":44539.16}
+{"Gender":"Female","City":"Figueira Castelo Rodrigo","Total_Salary":27831.08984375,"Average_Salary":27831.08984375,"Min_Salary":27831.09,"Max_Salary":27831.09}
+{"Gender":"Male","City":"Labuan","Total_Salary":79300.59375,"Average_Salary":79300.59375,"Min_Salary":79300.59,"Max_Salary":79300.59}
+{"Gender":"Male","City":"HanHuang","Total_Salary":34173.94140625,"Average_Salary":34173.94140625,"Min_Salary":34173.94,"Max_Salary":34173.94}
+{"Gender":"Female","City":"Guzhen","Total_Salary":94642.390625,"Average_Salary":94642.390625,"Min_Salary":94642.39,"Max_Salary":94642.39}
+{"Gender":"Female","City":"Dire Dawa","Total_Salary":96380.453125,"Average_Salary":96380.453125,"Min_Salary":96380.45,"Max_Salary":96380.45}
+{"Gender":"Female","City":"Neglasari","Total_Salary":23216.029296875,"Average_Salary":23216.029296875,"Min_Salary":23216.03,"Max_Salary":23216.03}
+{"Gender":"Female","City":"Svorónos","Total_Salary":90634.78125,"Average_Salary":90634.78125,"Min_Salary":90634.78,"Max_Salary":90634.78}
+{"Gender":"Female","City":"Chunghwa","Total_Salary":13757.669921875,"Average_Salary":13757.669921875,"Min_Salary":13757.67,"Max_Salary":13757.67}
+{"Gender":"Male","City":"Pavlovsk","Total_Salary":70536.9609375,"Average_Salary":70536.9609375,"Min_Salary":70536.96,"Max_Salary":70536.96}
+{"Gender":"Male","City":"Makurazaki","Total_Salary":37676.98828125,"Average_Salary":37676.98828125,"Min_Salary":37676.99,"Max_Salary":37676.99}
+{"Gender":"Male","City":"Saguiaran","Total_Salary":76379.1875,"Average_Salary":76379.1875,"Min_Salary":76379.19,"Max_Salary":76379.19}
+{"Gender":"Female","City":"Baima","Total_Salary":91186.046875,"Average_Salary":91186.046875,"Min_Salary":91186.05,"Max_Salary":91186.05}
+{"Gender":"Female","City":"Cipinang","Total_Salary":11617.509765625,"Average_Salary":11617.509765625,"Min_Salary":11617.51,"Max_Salary":11617.51}
+{"Gender":"Female","City":"Ananea","Total_Salary":63400.62109375,"Average_Salary":63400.62109375,"Min_Salary":63400.62,"Max_Salary":63400.62}
+{"Gender":"Male","City":"Medveditskiy","Total_Salary":75714.2109375,"Average_Salary":75714.2109375,"Min_Salary":75714.21,"Max_Salary":75714.21}
+{"Gender":"Female","City":"Kandangan","Total_Salary":63633.328125,"Average_Salary":63633.328125,"Min_Salary":63633.33,"Max_Salary":63633.33}
+{"Gender":"Male","City":"Ādilpur","Total_Salary":43405.41015625,"Average_Salary":43405.41015625,"Min_Salary":43405.41,"Max_Salary":43405.41}
+{"Gender":"Male","City":"Bazar-Korgon","Total_Salary":83598.0,"Average_Salary":83598.0,"Min_Salary":83598.0,"Max_Salary":83598.0}
+{"Gender":"Male","City":"Yichun","Total_Salary":62584.58984375,"Average_Salary":62584.58984375,"Min_Salary":62584.59,"Max_Salary":62584.59}
+{"Gender":"Male","City":"Paris 13","Total_Salary":10760.33984375,"Average_Salary":10760.33984375,"Min_Salary":10760.34,"Max_Salary":10760.34}
+{"Gender":"Female","City":"Banjar Yehsatang","Total_Salary":28327.810546875,"Average_Salary":28327.810546875,"Min_Salary":28327.81,"Max_Salary":28327.81}
+{"Gender":"Female","City":"Bogorejo","Total_Salary":91694.7890625,"Average_Salary":91694.7890625,"Min_Salary":91694.79,"Max_Salary":91694.79}
+{"Gender":"Female","City":"Guajará Mirim","Total_Salary":81607.7421875,"Average_Salary":81607.7421875,"Min_Salary":81607.74,"Max_Salary":81607.74}
+{"Gender":"Female","City":"Vysotsk","Total_Salary":21401.359375,"Average_Salary":21401.359375,"Min_Salary":21401.36,"Max_Salary":21401.36}
+{"Gender":"Male","City":"Divnomorskoye","Total_Salary":61489.23046875,"Average_Salary":61489.23046875,"Min_Salary":61489.23,"Max_Salary":61489.23}
+{"Gender":"Female","City":"Pointe-Noire","Total_Salary":31536.08984375,"Average_Salary":31536.08984375,"Min_Salary":31536.09,"Max_Salary":31536.09}
+{"Gender":"Male","City":"Karvia","Total_Salary":30329.310546875,"Average_Salary":30329.310546875,"Min_Salary":30329.31,"Max_Salary":30329.31}
+{"Gender":"Male","City":"Gesik","Total_Salary":22820.25,"Average_Salary":22820.25,"Min_Salary":22820.25,"Max_Salary":22820.25}
+{"Gender":"Male","City":"Milići","Total_Salary":45605.16015625,"Average_Salary":45605.16015625,"Min_Salary":45605.16,"Max_Salary":45605.16}
+{"Gender":"Female","City":"Jeżów Sudecki","Total_Salary":55817.05078125,"Average_Salary":55817.05078125,"Min_Salary":55817.05,"Max_Salary":55817.05}
+{"Gender":"Female","City":"Lodan Wetan","Total_Salary":84370.640625,"Average_Salary":84370.640625,"Min_Salary":84370.64,"Max_Salary":84370.64}
+{"Gender":"Male","City":"La Soledad","Total_Salary":25810.060546875,"Average_Salary":25810.060546875,"Min_Salary":25810.06,"Max_Salary":25810.06}
+{"Gender":"Female","City":"Ayía Triás","Total_Salary":34210.421875,"Average_Salary":34210.421875,"Min_Salary":34210.42,"Max_Salary":34210.42}
+{"Gender":"Male","City":"Petäjävesi","Total_Salary":71207.8984375,"Average_Salary":71207.8984375,"Min_Salary":71207.9,"Max_Salary":71207.9}
+{"Gender":"Male","City":"Viļaka","Total_Salary":39894.26171875,"Average_Salary":39894.26171875,"Min_Salary":39894.26,"Max_Salary":39894.26}
+{"Gender":"Female","City":"Nganane","Total_Salary":41636.98828125,"Average_Salary":41636.98828125,"Min_Salary":41636.99,"Max_Salary":41636.99}
+{"Gender":"Male","City":"Villa Bustos","Total_Salary":26791.0703125,"Average_Salary":26791.0703125,"Min_Salary":26791.07,"Max_Salary":26791.07}
+{"Gender":"Female","City":"Sofo-Birnin-Gwari","Total_Salary":45680.96875,"Average_Salary":45680.96875,"Min_Salary":45680.97,"Max_Salary":45680.97}
+{"Gender":"Male","City":"Lyeskawka","Total_Salary":28830.91015625,"Average_Salary":28830.91015625,"Min_Salary":28830.91,"Max_Salary":28830.91}
+{"Gender":"Male","City":"Pasian","Total_Salary":99421.34375,"Average_Salary":99421.34375,"Min_Salary":99421.34,"Max_Salary":99421.34}
+{"Gender":"Male","City":"Marićka","Total_Salary":68541.9921875,"Average_Salary":68541.9921875,"Min_Salary":68541.99,"Max_Salary":68541.99}
+{"Gender":"Female","City":"Unión","Total_Salary":83536.046875,"Average_Salary":83536.046875,"Min_Salary":83536.05,"Max_Salary":83536.05}
+{"Gender":"Male","City":"Huangyang","Total_Salary":63001.94921875,"Average_Salary":63001.94921875,"Min_Salary":63001.95,"Max_Salary":63001.95}
+{"Gender":"Male","City":"Ban Talat Nua","Total_Salary":37021.921875,"Average_Salary":37021.921875,"Min_Salary":37021.92,"Max_Salary":37021.92}
+{"Gender":"Female","City":"Dingle","Total_Salary":47861.51171875,"Average_Salary":47861.51171875,"Min_Salary":47861.51,"Max_Salary":47861.51}
+{"Gender":"Male","City":"Soly","Total_Salary":97968.3984375,"Average_Salary":97968.3984375,"Min_Salary":97968.4,"Max_Salary":97968.4}
+{"Gender":"Male","City":"Puncaksari","Total_Salary":42176.0703125,"Average_Salary":42176.0703125,"Min_Salary":42176.07,"Max_Salary":42176.07}
+{"Gender":"Female","City":"Baraya","Total_Salary":74605.328125,"Average_Salary":74605.328125,"Min_Salary":74605.33,"Max_Salary":74605.33}
+{"Gender":"Female","City":"Klippan","Total_Salary":77039.46875,"Average_Salary":77039.46875,"Min_Salary":77039.47,"Max_Salary":77039.47}
+{"Gender":"Male","City":"Itaguaí","Total_Salary":28301.30078125,"Average_Salary":28301.30078125,"Min_Salary":28301.3,"Max_Salary":28301.3}
+{"Gender":"Male","City":"Magugu","Total_Salary":45042.140625,"Average_Salary":45042.140625,"Min_Salary":45042.14,"Max_Salary":45042.14}
+{"Gender":"Male","City":"Podhum","Total_Salary":12016.0703125,"Average_Salary":12016.0703125,"Min_Salary":12016.07,"Max_Salary":12016.07}
+{"Gender":"Female","City":"Kauit","Total_Salary":89945.7109375,"Average_Salary":89945.7109375,"Min_Salary":89945.71,"Max_Salary":89945.71}
+{"Gender":"Male","City":"Springfield","Total_Salary":50838.53125,"Average_Salary":50838.53125,"Min_Salary":50838.53,"Max_Salary":50838.53}
+{"Gender":"Female","City":"As Sulayyil","Total_Salary":44520.890625,"Average_Salary":44520.890625,"Min_Salary":44520.89,"Max_Salary":44520.89}
+{"Gender":"Female","City":"Batutulis","Total_Salary":16321.66015625,"Average_Salary":16321.66015625,"Min_Salary":16321.66,"Max_Salary":16321.66}
+{"Gender":"Female","City":"Clamart","Total_Salary":68066.7578125,"Average_Salary":68066.7578125,"Min_Salary":68066.76,"Max_Salary":68066.76}
+{"Gender":"Male","City":"Schiedam postbusnummers","Total_Salary":25602.19921875,"Average_Salary":25602.19921875,"Min_Salary":25602.2,"Max_Salary":25602.2}
+{"Gender":"Female","City":"Mompach","Total_Salary":83840.0625,"Average_Salary":83840.0625,"Min_Salary":83840.06,"Max_Salary":83840.06}
+{"Gender":"Male","City":"Bile","Total_Salary":97909.8828125,"Average_Salary":97909.8828125,"Min_Salary":97909.88,"Max_Salary":97909.88}
+{"Gender":"Female","City":"Ursus","Total_Salary":11014.990234375,"Average_Salary":11014.990234375,"Min_Salary":11014.99,"Max_Salary":11014.99}
+{"Gender":"Female","City":"Oliveiras","Total_Salary":43652.28125,"Average_Salary":43652.28125,"Min_Salary":43652.28,"Max_Salary":43652.28}
+{"Gender":"Female","City":"Milotice","Total_Salary":41786.91015625,"Average_Salary":41786.91015625,"Min_Salary":41786.91,"Max_Salary":41786.91}
+{"Gender":"Male","City":"Pashiya","Total_Salary":64250.26171875,"Average_Salary":64250.26171875,"Min_Salary":64250.26,"Max_Salary":64250.26}
+{"Gender":"Male","City":"Salgar","Total_Salary":46578.2109375,"Average_Salary":46578.2109375,"Min_Salary":46578.21,"Max_Salary":46578.21}
+{"Gender":"Male","City":"Cernay","Total_Salary":73317.921875,"Average_Salary":73317.921875,"Min_Salary":73317.92,"Max_Salary":73317.92}
+{"Gender":"Male","City":"Poncokusumo","Total_Salary":25446.48046875,"Average_Salary":25446.48046875,"Min_Salary":25446.48,"Max_Salary":25446.48}
+{"Gender":"Female","City":"Bestala","Total_Salary":30266.4609375,"Average_Salary":30266.4609375,"Min_Salary":30266.46,"Max_Salary":30266.46}
+{"Gender":"Male","City":"Yesan","Total_Salary":42856.62109375,"Average_Salary":42856.62109375,"Min_Salary":42856.62,"Max_Salary":42856.62}
+{"Gender":"Female","City":"Eskilstuna","Total_Salary":39756.87890625,"Average_Salary":39756.87890625,"Min_Salary":39756.88,"Max_Salary":39756.88}
+{"Gender":"Female","City":"Viejo Daan Banua","Total_Salary":43927.5,"Average_Salary":43927.5,"Min_Salary":43927.5,"Max_Salary":43927.5}
+{"Gender":"Male","City":"Madjeouéni","Total_Salary":52651.87109375,"Average_Salary":52651.87109375,"Min_Salary":52651.87,"Max_Salary":52651.87}
+{"Gender":"Male","City":"Heitan","Total_Salary":73697.1015625,"Average_Salary":73697.1015625,"Min_Salary":73697.1,"Max_Salary":73697.1}
+{"Gender":"Female","City":"Michałowo","Total_Salary":36636.171875,"Average_Salary":36636.171875,"Min_Salary":36636.17,"Max_Salary":36636.17}
+{"Gender":"Female","City":"Kokaj","Total_Salary":29234.66015625,"Average_Salary":29234.66015625,"Min_Salary":29234.66,"Max_Salary":29234.66}
+{"Gender":"Male","City":"Laguna de Perlas","Total_Salary":52145.76171875,"Average_Salary":52145.76171875,"Min_Salary":52145.76,"Max_Salary":52145.76}
+{"Gender":"Female","City":"Datong","Total_Salary":64774.8984375,"Average_Salary":64774.8984375,"Min_Salary":64774.9,"Max_Salary":64774.9}
+{"Gender":"Male","City":"Ribeiro","Total_Salary":87803.96875,"Average_Salary":87803.96875,"Min_Salary":87803.97,"Max_Salary":87803.97}
+{"Gender":"Female","City":"Newport","Total_Salary":39530.578125,"Average_Salary":39530.578125,"Min_Salary":39530.58,"Max_Salary":39530.58}
+{"Gender":"Female","City":"Xinying","Total_Salary":83766.3515625,"Average_Salary":83766.3515625,"Min_Salary":83766.35,"Max_Salary":83766.35}
+{"Gender":"Female","City":"Jackson","Total_Salary":69901.0390625,"Average_Salary":69901.0390625,"Min_Salary":69901.04,"Max_Salary":69901.04}
+{"Gender":"Male","City":"Mawu","Total_Salary":48994.62890625,"Average_Salary":48994.62890625,"Min_Salary":48994.63,"Max_Salary":48994.63}
+{"Gender":"Female","City":"Slobodka","Total_Salary":22115.5703125,"Average_Salary":22115.5703125,"Min_Salary":22115.57,"Max_Salary":22115.57}
+{"Gender":"Female","City":"Atlanta","Total_Salary":41745.23046875,"Average_Salary":41745.23046875,"Min_Salary":41745.23,"Max_Salary":41745.23}
+{"Gender":"Female","City":"Timiryazevskiy","Total_Salary":99142.9375,"Average_Salary":99142.9375,"Min_Salary":99142.94,"Max_Salary":99142.94}
+{"Gender":"Male","City":"‘Aşīrah al Qiblīyah","Total_Salary":42951.87890625,"Average_Salary":42951.87890625,"Min_Salary":42951.88,"Max_Salary":42951.88}
+{"Gender":"Female","City":"Beni Khiar","Total_Salary":21108.23046875,"Average_Salary":21108.23046875,"Min_Salary":21108.23,"Max_Salary":21108.23}
+{"Gender":"Female","City":"Ridderkerk","Total_Salary":59588.41015625,"Average_Salary":59588.41015625,"Min_Salary":59588.41,"Max_Salary":59588.41}
+{"Gender":"Male","City":"Zaraysk","Total_Salary":63668.33984375,"Average_Salary":63668.33984375,"Min_Salary":63668.34,"Max_Salary":63668.34}
+{"Gender":"Female","City":"Kaustinen","Total_Salary":85120.7734375,"Average_Salary":85120.7734375,"Min_Salary":85120.77,"Max_Salary":85120.77}
+{"Gender":"Female","City":"Ar Rawḑ","Total_Salary":62467.78125,"Average_Salary":62467.78125,"Min_Salary":62467.78,"Max_Salary":62467.78}
+{"Gender":"Female","City":"Béja","Total_Salary":57282.73828125,"Average_Salary":57282.73828125,"Min_Salary":57282.74,"Max_Salary":57282.74}
+{"Gender":"Male","City":"Tsiatsan","Total_Salary":18795.439453125,"Average_Salary":18795.439453125,"Min_Salary":18795.44,"Max_Salary":18795.44}
+{"Gender":"Female","City":"Wenquan","Total_Salary":82283.40625,"Average_Salary":82283.40625,"Min_Salary":82283.41,"Max_Salary":82283.41}
+{"Gender":"Male","City":"Mosfilotí","Total_Salary":97631.703125,"Average_Salary":97631.703125,"Min_Salary":97631.7,"Max_Salary":97631.7}
+{"Gender":"Female","City":"Wangqingtuo","Total_Salary":73423.703125,"Average_Salary":73423.703125,"Min_Salary":73423.7,"Max_Salary":73423.7}
+{"Gender":"Female","City":"Adigeni","Total_Salary":58517.109375,"Average_Salary":58517.109375,"Min_Salary":58517.11,"Max_Salary":58517.11}
+{"Gender":"Female","City":"Sampit","Total_Salary":39343.30859375,"Average_Salary":39343.30859375,"Min_Salary":39343.31,"Max_Salary":39343.31}
+{"Gender":"Female","City":"Venustiano Carranza","Total_Salary":11223.75,"Average_Salary":11223.75,"Min_Salary":11223.75,"Max_Salary":11223.75}
+{"Gender":"Female","City":"Sungai Iyu","Total_Salary":80136.2890625,"Average_Salary":80136.2890625,"Min_Salary":80136.29,"Max_Salary":80136.29}
+{"Gender":"Male","City":"Nuquí","Total_Salary":46405.25,"Average_Salary":46405.25,"Min_Salary":46405.25,"Max_Salary":46405.25}
+{"Gender":"Female","City":"Zaghouan","Total_Salary":32654.48046875,"Average_Salary":32654.48046875,"Min_Salary":32654.48,"Max_Salary":32654.48}
+{"Gender":"Female","City":"Heqing","Total_Salary":63273.1796875,"Average_Salary":63273.1796875,"Min_Salary":63273.18,"Max_Salary":63273.18}
+{"Gender":"Female","City":"Marcq-en-Barœul","Total_Salary":21873.7109375,"Average_Salary":21873.7109375,"Min_Salary":21873.71,"Max_Salary":21873.71}
+{"Gender":"Female","City":"Castle Bruce","Total_Salary":35523.37109375,"Average_Salary":35523.37109375,"Min_Salary":35523.37,"Max_Salary":35523.37}
+{"Gender":"Male","City":"Lanas","Total_Salary":61966.2890625,"Average_Salary":61966.2890625,"Min_Salary":61966.29,"Max_Salary":61966.29}
+{"Gender":"Female","City":"Emmen","Total_Salary":59421.890625,"Average_Salary":59421.890625,"Min_Salary":59421.89,"Max_Salary":59421.89}
+{"Gender":"Male","City":"Arbeláez","Total_Salary":157116.1328125,"Average_Salary":78558.06640625,"Min_Salary":68098.42,"Max_Salary":89017.71}
+{"Gender":"Female","City":"Kuala Terengganu","Total_Salary":81003.7578125,"Average_Salary":81003.7578125,"Min_Salary":81003.76,"Max_Salary":81003.76}
+{"Gender":"Female","City":"Lázně Kynžvart","Total_Salary":36963.69140625,"Average_Salary":36963.69140625,"Min_Salary":36963.69,"Max_Salary":36963.69}
+{"Gender":"Female","City":"Shinaihai","Total_Salary":39544.640625,"Average_Salary":39544.640625,"Min_Salary":39544.64,"Max_Salary":39544.64}
+{"Gender":"Female","City":"Suchy Las","Total_Salary":61517.640625,"Average_Salary":61517.640625,"Min_Salary":61517.64,"Max_Salary":61517.64}
+{"Gender":"Male","City":"Tiaong","Total_Salary":75543.84375,"Average_Salary":75543.84375,"Min_Salary":75543.84,"Max_Salary":75543.84}
+{"Gender":"Female","City":"Nora","Total_Salary":71668.5234375,"Average_Salary":71668.5234375,"Min_Salary":71668.52,"Max_Salary":71668.52}
+{"Gender":"Male","City":"Binzhou","Total_Salary":79866.890625,"Average_Salary":79866.890625,"Min_Salary":79866.89,"Max_Salary":79866.89}
+{"Gender":"Male","City":"Svetlanovskiy","Total_Salary":23317.58984375,"Average_Salary":23317.58984375,"Min_Salary":23317.59,"Max_Salary":23317.59}
+{"Gender":"Female","City":"Guarujá","Total_Salary":21176.640625,"Average_Salary":21176.640625,"Min_Salary":21176.64,"Max_Salary":21176.64}
+{"Gender":"Female","City":"Stockholm","Total_Salary":81081.0390625,"Average_Salary":81081.0390625,"Min_Salary":81081.04,"Max_Salary":81081.04}
+{"Gender":"Male","City":"Vairão","Total_Salary":35983.328125,"Average_Salary":35983.328125,"Min_Salary":35983.33,"Max_Salary":35983.33}
+{"Gender":"Male","City":"Mnelalete","Total_Salary":57265.640625,"Average_Salary":57265.640625,"Min_Salary":57265.64,"Max_Salary":57265.64}
+{"Gender":"Male","City":"Zhongying","Total_Salary":49125.16015625,"Average_Salary":49125.16015625,"Min_Salary":49125.16,"Max_Salary":49125.16}
+{"Gender":"Female","City":"Monte Branco","Total_Salary":50052.890625,"Average_Salary":50052.890625,"Min_Salary":50052.89,"Max_Salary":50052.89}
+{"Gender":"Male","City":"Uva","Total_Salary":87006.609375,"Average_Salary":87006.609375,"Min_Salary":87006.61,"Max_Salary":87006.61}
+{"Gender":"Male","City":"Hamilton","Total_Salary":50253.26953125,"Average_Salary":50253.26953125,"Min_Salary":50253.27,"Max_Salary":50253.27}
+{"Gender":"Female","City":"Ganfang","Total_Salary":93860.6484375,"Average_Salary":93860.6484375,"Min_Salary":93860.65,"Max_Salary":93860.65}
+{"Gender":"Male","City":"Basseterre","Total_Salary":29172.0703125,"Average_Salary":29172.0703125,"Min_Salary":29172.07,"Max_Salary":29172.07}
+{"Gender":"Female","City":"Obiliq","Total_Salary":21039.359375,"Average_Salary":21039.359375,"Min_Salary":21039.36,"Max_Salary":21039.36}
+{"Gender":"Male","City":"Las Lomas","Total_Salary":89750.8984375,"Average_Salary":89750.8984375,"Min_Salary":89750.9,"Max_Salary":89750.9}
+{"Gender":"Male","City":"San Juan","Total_Salary":92340.9296875,"Average_Salary":92340.9296875,"Min_Salary":92340.93,"Max_Salary":92340.93}
+{"Gender":"Male","City":"Aix-en-Provence","Total_Salary":65910.3125,"Average_Salary":65910.3125,"Min_Salary":65910.31,"Max_Salary":65910.31}
+{"Gender":"Female","City":"Połomia","Total_Salary":10616.4404296875,"Average_Salary":10616.4404296875,"Min_Salary":10616.44,"Max_Salary":10616.44}
+{"Gender":"Female","City":"Jinqiao","Total_Salary":75199.5,"Average_Salary":75199.5,"Min_Salary":75199.5,"Max_Salary":75199.5}
+{"Gender":"Male","City":"Žrnovo","Total_Salary":74782.640625,"Average_Salary":74782.640625,"Min_Salary":74782.64,"Max_Salary":74782.64}
+{"Gender":"Male","City":"Leganes","Total_Salary":47121.28125,"Average_Salary":47121.28125,"Min_Salary":47121.28,"Max_Salary":47121.28}
+{"Gender":"Male","City":"Puma","Total_Salary":90772.0,"Average_Salary":90772.0,"Min_Salary":90772.0,"Max_Salary":90772.0}
+{"Gender":"Male","City":"Cotabambas","Total_Salary":42662.23828125,"Average_Salary":42662.23828125,"Min_Salary":42662.24,"Max_Salary":42662.24}
+{"Gender":"Female","City":"Karabanovo","Total_Salary":45568.921875,"Average_Salary":45568.921875,"Min_Salary":45568.92,"Max_Salary":45568.92}
+{"Gender":"Female","City":"Piúma","Total_Salary":91322.546875,"Average_Salary":91322.546875,"Min_Salary":91322.55,"Max_Salary":91322.55}
+{"Gender":"Male","City":"Jaguaruana","Total_Salary":64732.48046875,"Average_Salary":64732.48046875,"Min_Salary":64732.48,"Max_Salary":64732.48}
+{"Gender":"Male","City":"Rzhavki","Total_Salary":62765.0,"Average_Salary":62765.0,"Min_Salary":62765.0,"Max_Salary":62765.0}
+{"Gender":"Male","City":"Imbang","Total_Salary":46385.21875,"Average_Salary":46385.21875,"Min_Salary":46385.22,"Max_Salary":46385.22}
+{"Gender":"Female","City":"Luleå","Total_Salary":85459.8828125,"Average_Salary":85459.8828125,"Min_Salary":85459.88,"Max_Salary":85459.88}
+{"Gender":"Female","City":"Paris 14","Total_Salary":16156.3798828125,"Average_Salary":16156.3798828125,"Min_Salary":16156.38,"Max_Salary":16156.38}
+{"Gender":"Male","City":"Currais","Total_Salary":95280.3515625,"Average_Salary":95280.3515625,"Min_Salary":95280.35,"Max_Salary":95280.35}
+{"Gender":"Female","City":"Rizal","Total_Salary":29599.580078125,"Average_Salary":29599.580078125,"Min_Salary":29599.58,"Max_Salary":29599.58}
+{"Gender":"Male","City":"Aizi","Total_Salary":69273.3203125,"Average_Salary":69273.3203125,"Min_Salary":69273.32,"Max_Salary":69273.32}
+{"Gender":"Female","City":"Lingqiao","Total_Salary":81950.8828125,"Average_Salary":81950.8828125,"Min_Salary":81950.88,"Max_Salary":81950.88}
+{"Gender":"Male","City":"Qorovulbozor Shahri","Total_Salary":47221.3984375,"Average_Salary":47221.3984375,"Min_Salary":47221.4,"Max_Salary":47221.4}
+{"Gender":"Female","City":"Skene","Total_Salary":138061.27734375,"Average_Salary":69030.638671875,"Min_Salary":61211.56,"Max_Salary":76849.72}
+{"Gender":"Male","City":"Đông Thành","Total_Salary":23180.7109375,"Average_Salary":23180.7109375,"Min_Salary":23180.71,"Max_Salary":23180.71}
+{"Gender":"Female","City":"Vicente Guerrero","Total_Salary":71329.0,"Average_Salary":71329.0,"Min_Salary":71329.0,"Max_Salary":71329.0}
+{"Gender":"Male","City":"Nuevo Berlín","Total_Salary":25751.75,"Average_Salary":25751.75,"Min_Salary":25751.75,"Max_Salary":25751.75}
+{"Gender":"Female","City":"Chandmanĭ","Total_Salary":87792.296875,"Average_Salary":87792.296875,"Min_Salary":87792.3,"Max_Salary":87792.3}
+{"Gender":"Female","City":"Springfield","Total_Salary":30556.119140625,"Average_Salary":30556.119140625,"Min_Salary":30556.12,"Max_Salary":30556.12}
+{"Gender":"Female","City":"Sundbyberg","Total_Salary":45239.359375,"Average_Salary":45239.359375,"Min_Salary":45239.36,"Max_Salary":45239.36}
+{"Gender":"Female","City":"Santiago","Total_Salary":17535.130859375,"Average_Salary":17535.130859375,"Min_Salary":17535.13,"Max_Salary":17535.13}
+{"Gender":"Female","City":"Gornji Grad","Total_Salary":39274.71875,"Average_Salary":39274.71875,"Min_Salary":39274.72,"Max_Salary":39274.72}
+{"Gender":"Male","City":"Shedok","Total_Salary":74236.078125,"Average_Salary":74236.078125,"Min_Salary":74236.08,"Max_Salary":74236.08}
+{"Gender":"Male","City":"Xichuan","Total_Salary":40279.58984375,"Average_Salary":40279.58984375,"Min_Salary":40279.59,"Max_Salary":40279.59}
+{"Gender":"Female","City":"Floresta","Total_Salary":84566.90625,"Average_Salary":84566.90625,"Min_Salary":84566.91,"Max_Salary":84566.91}
+{"Gender":"Male","City":"Öjebyn","Total_Salary":14880.6201171875,"Average_Salary":14880.6201171875,"Min_Salary":14880.62,"Max_Salary":14880.62}
+{"Gender":"Female","City":"Cerro Blanco","Total_Salary":49236.2109375,"Average_Salary":49236.2109375,"Min_Salary":49236.21,"Max_Salary":49236.21}
+{"Gender":"Female","City":"Emiliano Zapata","Total_Salary":34644.58984375,"Average_Salary":34644.58984375,"Min_Salary":34644.59,"Max_Salary":34644.59}
+{"Gender":"Female","City":"Lyon","Total_Salary":76317.8671875,"Average_Salary":76317.8671875,"Min_Salary":76317.87,"Max_Salary":76317.87}
+{"Gender":"Male","City":"Farasān","Total_Salary":52448.5,"Average_Salary":52448.5,"Min_Salary":52448.5,"Max_Salary":52448.5}
+{"Gender":"Female","City":"Skuodas","Total_Salary":70306.2890625,"Average_Salary":70306.2890625,"Min_Salary":70306.29,"Max_Salary":70306.29}
+{"Gender":"Male","City":"Seremban","Total_Salary":20966.220703125,"Average_Salary":20966.220703125,"Min_Salary":20966.22,"Max_Salary":20966.22}
+{"Gender":"Male","City":"Liên Chiểu","Total_Salary":94017.1484375,"Average_Salary":94017.1484375,"Min_Salary":94017.15,"Max_Salary":94017.15}
+{"Gender":"Female","City":"Krajan Tengah","Total_Salary":64106.41015625,"Average_Salary":64106.41015625,"Min_Salary":64106.41,"Max_Salary":64106.41}
+{"Gender":"Female","City":"Timbiras","Total_Salary":59550.3984375,"Average_Salary":59550.3984375,"Min_Salary":59550.4,"Max_Salary":59550.4}
+{"Gender":"Male","City":"Olopa","Total_Salary":21720.220703125,"Average_Salary":21720.220703125,"Min_Salary":21720.22,"Max_Salary":21720.22}
+{"Gender":"Female","City":"Kowŏn-ŭp","Total_Salary":51438.2890625,"Average_Salary":51438.2890625,"Min_Salary":51438.29,"Max_Salary":51438.29}
+{"Gender":"Female","City":"Casma","Total_Salary":58377.46875,"Average_Salary":58377.46875,"Min_Salary":58377.47,"Max_Salary":58377.47}
+{"Gender":"Male","City":"Virojoki","Total_Salary":55516.69140625,"Average_Salary":55516.69140625,"Min_Salary":55516.69,"Max_Salary":55516.69}
+{"Gender":"Female","City":"Taiping","Total_Salary":26979.66015625,"Average_Salary":26979.66015625,"Min_Salary":26979.66,"Max_Salary":26979.66}
+{"Gender":"Female","City":"Derbent","Total_Salary":67199.1328125,"Average_Salary":67199.1328125,"Min_Salary":67199.13,"Max_Salary":67199.13}
+{"Gender":"Male","City":"Niny","Total_Salary":53258.859375,"Average_Salary":53258.859375,"Min_Salary":53258.86,"Max_Salary":53258.86}
+{"Gender":"Female","City":"Zhangcun","Total_Salary":45824.55859375,"Average_Salary":45824.55859375,"Min_Salary":45824.56,"Max_Salary":45824.56}
+{"Gender":"Male","City":"Novozavidovskiy","Total_Salary":67437.8828125,"Average_Salary":67437.8828125,"Min_Salary":67437.88,"Max_Salary":67437.88}
+{"Gender":"Female","City":"Klukeng","Total_Salary":98439.4921875,"Average_Salary":98439.4921875,"Min_Salary":98439.49,"Max_Salary":98439.49}
+{"Gender":"Male","City":"Shah Alam","Total_Salary":49715.87890625,"Average_Salary":49715.87890625,"Min_Salary":49715.88,"Max_Salary":49715.88}
+{"Gender":"Female","City":"Novorossiysk","Total_Salary":38833.578125,"Average_Salary":38833.578125,"Min_Salary":38833.58,"Max_Salary":38833.58}
+{"Gender":"Female","City":"Guanaja","Total_Salary":16200.099609375,"Average_Salary":16200.099609375,"Min_Salary":16200.1,"Max_Salary":16200.1}
+{"Gender":"Female","City":"Kinsealy-Drinan","Total_Salary":30101.16015625,"Average_Salary":30101.16015625,"Min_Salary":30101.16,"Max_Salary":30101.16}
+{"Gender":"Female","City":"Kakamas","Total_Salary":44648.26953125,"Average_Salary":44648.26953125,"Min_Salary":44648.27,"Max_Salary":44648.27}
+{"Gender":"Female","City":"Ituzaingó","Total_Salary":52271.73046875,"Average_Salary":52271.73046875,"Min_Salary":52271.73,"Max_Salary":52271.73}
+{"Gender":"Male","City":"Pogag","Total_Salary":61203.01171875,"Average_Salary":61203.01171875,"Min_Salary":61203.01,"Max_Salary":61203.01}
+{"Gender":"Male","City":"Stockholm","Total_Salary":50645.5,"Average_Salary":50645.5,"Min_Salary":50645.5,"Max_Salary":50645.5}
+{"Gender":"Male","City":"Guanzhou","Total_Salary":77999.9609375,"Average_Salary":77999.9609375,"Min_Salary":77999.96,"Max_Salary":77999.96}
+{"Gender":"Female","City":"Longgang","Total_Salary":34565.58984375,"Average_Salary":34565.58984375,"Min_Salary":34565.59,"Max_Salary":34565.59}
+{"Gender":"Female","City":"Los Mangos","Total_Salary":15288.1103515625,"Average_Salary":15288.1103515625,"Min_Salary":15288.11,"Max_Salary":15288.11}
+{"Gender":"Male","City":"Auki","Total_Salary":66576.9609375,"Average_Salary":66576.9609375,"Min_Salary":66576.96,"Max_Salary":66576.96}
+{"Gender":"Male","City":"Kertamukti","Total_Salary":75388.390625,"Average_Salary":75388.390625,"Min_Salary":75388.39,"Max_Salary":75388.39}
+{"Gender":"Female","City":"San Pedro Masahuat","Total_Salary":10808.16015625,"Average_Salary":10808.16015625,"Min_Salary":10808.16,"Max_Salary":10808.16}
+{"Gender":"Female","City":"Goulmima","Total_Salary":24385.609375,"Average_Salary":24385.609375,"Min_Salary":24385.61,"Max_Salary":24385.61}
+{"Gender":"Male","City":"Banyulegi","Total_Salary":75532.796875,"Average_Salary":75532.796875,"Min_Salary":75532.8,"Max_Salary":75532.8}
+{"Gender":"Male","City":"Golina","Total_Salary":64656.3984375,"Average_Salary":64656.3984375,"Min_Salary":64656.4,"Max_Salary":64656.4}
+{"Gender":"Female","City":"Storuman","Total_Salary":61503.28125,"Average_Salary":61503.28125,"Min_Salary":61503.28,"Max_Salary":61503.28}
+{"Gender":"Male","City":"Botlhapatlou","Total_Salary":36392.28125,"Average_Salary":36392.28125,"Min_Salary":36392.28,"Max_Salary":36392.28}
+{"Gender":"Male","City":"Trélissac","Total_Salary":46116.359375,"Average_Salary":46116.359375,"Min_Salary":46116.36,"Max_Salary":46116.36}
+{"Gender":"Female","City":"Qiligang","Total_Salary":56333.76953125,"Average_Salary":56333.76953125,"Min_Salary":56333.77,"Max_Salary":56333.77}
+{"Gender":"Male","City":"Kiupo","Total_Salary":87249.28125,"Average_Salary":87249.28125,"Min_Salary":87249.28,"Max_Salary":87249.28}
+{"Gender":"Male","City":"Konstancin-Jeziorna","Total_Salary":27826.1796875,"Average_Salary":27826.1796875,"Min_Salary":27826.18,"Max_Salary":27826.18}
+{"Gender":"Female","City":"Puncakwangi","Total_Salary":93689.453125,"Average_Salary":93689.453125,"Min_Salary":93689.45,"Max_Salary":93689.45}
+{"Gender":"Female","City":"Dutsin Ma","Total_Salary":15323.099609375,"Average_Salary":15323.099609375,"Min_Salary":15323.1,"Max_Salary":15323.1}
+{"Gender":"Male","City":"Juvisy-sur-Orge","Total_Salary":55079.80078125,"Average_Salary":55079.80078125,"Min_Salary":55079.8,"Max_Salary":55079.8}
+{"Gender":"Male","City":"Doloplazy","Total_Salary":42590.48828125,"Average_Salary":42590.48828125,"Min_Salary":42590.49,"Max_Salary":42590.49}
+{"Gender":"Female","City":"Foz Sousa","Total_Salary":20823.720703125,"Average_Salary":20823.720703125,"Min_Salary":20823.72,"Max_Salary":20823.72}
+{"Gender":"Female","City":"Oxapampa","Total_Salary":52047.19921875,"Average_Salary":52047.19921875,"Min_Salary":52047.2,"Max_Salary":52047.2}
+{"Gender":"Male","City":"Polo","Total_Salary":49279.80078125,"Average_Salary":49279.80078125,"Min_Salary":49279.8,"Max_Salary":49279.8}
+{"Gender":"Female","City":"Haykashen","Total_Salary":76556.5703125,"Average_Salary":76556.5703125,"Min_Salary":76556.57,"Max_Salary":76556.57}
+{"Gender":"Female","City":"Manhete","Total_Salary":24265.759765625,"Average_Salary":24265.759765625,"Min_Salary":24265.76,"Max_Salary":24265.76}
+{"Gender":"Female","City":"Parelhas","Total_Salary":79334.90625,"Average_Salary":79334.90625,"Min_Salary":79334.91,"Max_Salary":79334.91}
+{"Gender":"Male","City":"Yatsushiro","Total_Salary":85517.703125,"Average_Salary":85517.703125,"Min_Salary":85517.7,"Max_Salary":85517.7}
+{"Gender":"Male","City":"Capela","Total_Salary":53975.69921875,"Average_Salary":53975.69921875,"Min_Salary":53975.7,"Max_Salary":53975.7}
+{"Gender":"Female","City":"Sioah","Total_Salary":95912.4375,"Average_Salary":95912.4375,"Min_Salary":95912.44,"Max_Salary":95912.44}
+{"Gender":"Female","City":"Bulgan","Total_Salary":62846.6015625,"Average_Salary":62846.6015625,"Min_Salary":62846.6,"Max_Salary":62846.6}
+{"Gender":"Male","City":"Caxias","Total_Salary":99786.3984375,"Average_Salary":99786.3984375,"Min_Salary":99786.4,"Max_Salary":99786.4}
+{"Gender":"Female","City":"Al Bīrah","Total_Salary":87905.4296875,"Average_Salary":87905.4296875,"Min_Salary":87905.43,"Max_Salary":87905.43}
+{"Gender":"Female","City":"Baalbek","Total_Salary":107504.80078125,"Average_Salary":53752.400390625,"Min_Salary":47529.18,"Max_Salary":59975.62}
+{"Gender":"Female","City":"Tsaghkunk’","Total_Salary":83143.3984375,"Average_Salary":83143.3984375,"Min_Salary":83143.4,"Max_Salary":83143.4}
+{"Gender":"Female","City":"Piekoszów","Total_Salary":78229.0,"Average_Salary":78229.0,"Min_Salary":78229.0,"Max_Salary":78229.0}
+{"Gender":"Female","City":"San Juan","Total_Salary":12584.830078125,"Average_Salary":12584.830078125,"Min_Salary":12584.83,"Max_Salary":12584.83}
+{"Gender":"Female","City":"Vrbno pod Pradědem","Total_Salary":45746.109375,"Average_Salary":45746.109375,"Min_Salary":45746.11,"Max_Salary":45746.11}
+{"Gender":"Male","City":"Tarauacá","Total_Salary":15800.0595703125,"Average_Salary":15800.0595703125,"Min_Salary":15800.06,"Max_Salary":15800.06}
+{"Gender":"Female","City":"Cimongkor","Total_Salary":90053.0234375,"Average_Salary":90053.0234375,"Min_Salary":90053.02,"Max_Salary":90053.02}
+{"Gender":"Male","City":"Bantarpanjang","Total_Salary":69188.2265625,"Average_Salary":69188.2265625,"Min_Salary":69188.23,"Max_Salary":69188.23}
+{"Gender":"Female","City":"Chlumčany","Total_Salary":26843.859375,"Average_Salary":26843.859375,"Min_Salary":26843.86,"Max_Salary":26843.86}
+{"Gender":"Male","City":"Perico","Total_Salary":79520.5,"Average_Salary":79520.5,"Min_Salary":79520.5,"Max_Salary":79520.5}
+{"Gender":"Male","City":"Daet","Total_Salary":82058.7890625,"Average_Salary":82058.7890625,"Min_Salary":82058.79,"Max_Salary":82058.79}
+{"Gender":"Male","City":"Kokotów","Total_Salary":20350.349609375,"Average_Salary":20350.349609375,"Min_Salary":20350.35,"Max_Salary":20350.35}
+{"Gender":"Male","City":"Guanjiabao","Total_Salary":45315.98046875,"Average_Salary":45315.98046875,"Min_Salary":45315.98,"Max_Salary":45315.98}
+{"Gender":"Male","City":"Maru","Total_Salary":88916.90625,"Average_Salary":88916.90625,"Min_Salary":88916.91,"Max_Salary":88916.91}
+{"Gender":"Male","City":"São Gonçalo do Amarante","Total_Salary":78640.953125,"Average_Salary":78640.953125,"Min_Salary":78640.95,"Max_Salary":78640.95}
+{"Gender":"Male","City":"Zhizhong","Total_Salary":10913.5,"Average_Salary":10913.5,"Min_Salary":10913.5,"Max_Salary":10913.5}
+{"Gender":"Male","City":"Verba","Total_Salary":62976.140625,"Average_Salary":62976.140625,"Min_Salary":62976.14,"Max_Salary":62976.14}
+{"Gender":"Male","City":"Librazhd-Qendër","Total_Salary":32805.16015625,"Average_Salary":32805.16015625,"Min_Salary":32805.16,"Max_Salary":32805.16}
+{"Gender":"Male","City":"Jarash","Total_Salary":10210.849609375,"Average_Salary":10210.849609375,"Min_Salary":10210.85,"Max_Salary":10210.85}
+{"Gender":"Female","City":"Mirny","Total_Salary":68196.8671875,"Average_Salary":68196.8671875,"Min_Salary":68196.87,"Max_Salary":68196.87}
+{"Gender":"Male","City":"Gaoshi","Total_Salary":10101.919921875,"Average_Salary":10101.919921875,"Min_Salary":10101.92,"Max_Salary":10101.92}
+{"Gender":"Female","City":"Boliden","Total_Salary":63032.26953125,"Average_Salary":63032.26953125,"Min_Salary":63032.27,"Max_Salary":63032.27}
+{"Gender":"Male","City":"Gomunice","Total_Salary":96055.8125,"Average_Salary":96055.8125,"Min_Salary":96055.81,"Max_Salary":96055.81}
+{"Gender":"Female","City":"Sanhui","Total_Salary":16395.099609375,"Average_Salary":16395.099609375,"Min_Salary":16395.1,"Max_Salary":16395.1}
+{"Gender":"Female","City":"Myeik","Total_Salary":28860.810546875,"Average_Salary":28860.810546875,"Min_Salary":28860.81,"Max_Salary":28860.81}
+{"Gender":"Female","City":"Esik","Total_Salary":92021.140625,"Average_Salary":92021.140625,"Min_Salary":92021.14,"Max_Salary":92021.14}
+{"Gender":"Female","City":"Verkhniy Dashkesan","Total_Salary":93279.1328125,"Average_Salary":93279.1328125,"Min_Salary":93279.13,"Max_Salary":93279.13}
+{"Gender":"Male","City":"Myadzyel","Total_Salary":70260.96875,"Average_Salary":70260.96875,"Min_Salary":70260.97,"Max_Salary":70260.97}
+{"Gender":"Male","City":"Zongzhai","Total_Salary":20313.869140625,"Average_Salary":20313.869140625,"Min_Salary":20313.87,"Max_Salary":20313.87}
+{"Gender":"Male","City":"Dijon","Total_Salary":81452.921875,"Average_Salary":81452.921875,"Min_Salary":81452.92,"Max_Salary":81452.92}
+{"Gender":"Male","City":"Itabaiana","Total_Salary":99502.15625,"Average_Salary":99502.15625,"Min_Salary":99502.16,"Max_Salary":99502.16}
+{"Gender":"Male","City":"Santa Bárbara","Total_Salary":94080.078125,"Average_Salary":94080.078125,"Min_Salary":94080.08,"Max_Salary":94080.08}
+{"Gender":"Male","City":"Martyush","Total_Salary":51071.578125,"Average_Salary":51071.578125,"Min_Salary":51071.58,"Max_Salary":51071.58}
+{"Gender":"Male","City":"Khyzy","Total_Salary":73169.4765625,"Average_Salary":73169.4765625,"Min_Salary":73169.48,"Max_Salary":73169.48}
+{"Gender":"Female","City":"Nyrob","Total_Salary":20545.150390625,"Average_Salary":20545.150390625,"Min_Salary":20545.15,"Max_Salary":20545.15}
+{"Gender":"Male","City":"Taifu","Total_Salary":87708.3984375,"Average_Salary":87708.3984375,"Min_Salary":87708.4,"Max_Salary":87708.4}
+{"Gender":"Female","City":"København","Total_Salary":37744.71875,"Average_Salary":37744.71875,"Min_Salary":37744.72,"Max_Salary":37744.72}
+{"Gender":"Male","City":"Jingling","Total_Salary":55594.30859375,"Average_Salary":55594.30859375,"Min_Salary":55594.31,"Max_Salary":55594.31}
+{"Gender":"Female","City":"Dzüyl","Total_Salary":28106.509765625,"Average_Salary":28106.509765625,"Min_Salary":28106.51,"Max_Salary":28106.51}
+{"Gender":"Female","City":"Valence","Total_Salary":62929.671875,"Average_Salary":62929.671875,"Min_Salary":62929.67,"Max_Salary":62929.67}
+{"Gender":"Female","City":"Gimo","Total_Salary":71129.8203125,"Average_Salary":71129.8203125,"Min_Salary":71129.82,"Max_Salary":71129.82}
+{"Gender":"Female","City":"Neochórion","Total_Salary":81293.5234375,"Average_Salary":81293.5234375,"Min_Salary":81293.52,"Max_Salary":81293.52}
+{"Gender":"Male","City":"Tiannan","Total_Salary":11209.8095703125,"Average_Salary":11209.8095703125,"Min_Salary":11209.81,"Max_Salary":11209.81}
+{"Gender":"Female","City":"Suphan Buri","Total_Salary":64920.0703125,"Average_Salary":64920.0703125,"Min_Salary":64920.07,"Max_Salary":64920.07}
+{"Gender":"Male","City":"Zhuqi","Total_Salary":38301.578125,"Average_Salary":38301.578125,"Min_Salary":38301.58,"Max_Salary":38301.58}
+{"Gender":"Male","City":"Massaguet","Total_Salary":31637.609375,"Average_Salary":31637.609375,"Min_Salary":31637.61,"Max_Salary":31637.61}
+{"Gender":"Female","City":"Chayek","Total_Salary":60216.0703125,"Average_Salary":60216.0703125,"Min_Salary":60216.07,"Max_Salary":60216.07}
+{"Gender":"Female","City":"Krasnomayskiy","Total_Salary":54941.78125,"Average_Salary":54941.78125,"Min_Salary":54941.78,"Max_Salary":54941.78}
+{"Gender":"Male","City":"Oruro","Total_Salary":31940.48046875,"Average_Salary":31940.48046875,"Min_Salary":31940.48,"Max_Salary":31940.48}
+{"Gender":"Female","City":"Kitakata","Total_Salary":52024.12109375,"Average_Salary":52024.12109375,"Min_Salary":52024.12,"Max_Salary":52024.12}
+{"Gender":"Male","City":"Jamaica","Total_Salary":36978.51171875,"Average_Salary":36978.51171875,"Min_Salary":36978.51,"Max_Salary":36978.51}
+{"Gender":"Female","City":"Lere","Total_Salary":70333.4375,"Average_Salary":70333.4375,"Min_Salary":70333.44,"Max_Salary":70333.44}
+{"Gender":"Male","City":"Tartagal","Total_Salary":42001.91015625,"Average_Salary":42001.91015625,"Min_Salary":42001.91,"Max_Salary":42001.91}
+{"Gender":"Male","City":"Samal","Total_Salary":22930.279296875,"Average_Salary":22930.279296875,"Min_Salary":22930.28,"Max_Salary":22930.28}
+{"Gender":"Male","City":"Wringinputih","Total_Salary":98603.8203125,"Average_Salary":98603.8203125,"Min_Salary":98603.82,"Max_Salary":98603.82}
+{"Gender":"Female","City":"Warudoyong","Total_Salary":94061.5703125,"Average_Salary":94061.5703125,"Min_Salary":94061.57,"Max_Salary":94061.57}
+{"Gender":"Male","City":"Barusuda","Total_Salary":78615.1015625,"Average_Salary":78615.1015625,"Min_Salary":78615.1,"Max_Salary":78615.1}
+{"Gender":"Female","City":"Kahama","Total_Salary":27726.380859375,"Average_Salary":27726.380859375,"Min_Salary":27726.38,"Max_Salary":27726.38}
+{"Gender":"Female","City":"Venilale","Total_Salary":84589.359375,"Average_Salary":84589.359375,"Min_Salary":84589.36,"Max_Salary":84589.36}
+{"Gender":"Female","City":"Íquira","Total_Salary":28989.669921875,"Average_Salary":28989.669921875,"Min_Salary":28989.67,"Max_Salary":28989.67}
+{"Gender":"Male","City":"Sindangheula","Total_Salary":62347.03125,"Average_Salary":62347.03125,"Min_Salary":62347.03,"Max_Salary":62347.03}
+{"Gender":"Female","City":"Banepa","Total_Salary":67349.25,"Average_Salary":67349.25,"Min_Salary":67349.25,"Max_Salary":67349.25}
+{"Gender":"Male","City":"Mwinilunga","Total_Salary":32178.1796875,"Average_Salary":32178.1796875,"Min_Salary":32178.18,"Max_Salary":32178.18}
+{"Gender":"Male","City":"Kharagauli","Total_Salary":79247.9375,"Average_Salary":79247.9375,"Min_Salary":79247.94,"Max_Salary":79247.94}
+{"Gender":"Male","City":"Xiaoshi","Total_Salary":93817.5078125,"Average_Salary":93817.5078125,"Min_Salary":93817.51,"Max_Salary":93817.51}
+{"Gender":"Male","City":"Chincha Baja","Total_Salary":43872.69140625,"Average_Salary":43872.69140625,"Min_Salary":43872.69,"Max_Salary":43872.69}
+{"Gender":"Female","City":"Pho Duc","Total_Salary":91952.9296875,"Average_Salary":91952.9296875,"Min_Salary":91952.93,"Max_Salary":91952.93}
+{"Gender":"Male","City":"Thorold","Total_Salary":19832.05078125,"Average_Salary":19832.05078125,"Min_Salary":19832.05,"Max_Salary":19832.05}
+{"Gender":"Female","City":"Minakuchi","Total_Salary":56605.33984375,"Average_Salary":56605.33984375,"Min_Salary":56605.34,"Max_Salary":56605.34}
+{"Gender":"Female","City":"Vigia","Total_Salary":60274.01953125,"Average_Salary":60274.01953125,"Min_Salary":60274.02,"Max_Salary":60274.02}
+{"Gender":"Female","City":"Abéché","Total_Salary":93375.1796875,"Average_Salary":93375.1796875,"Min_Salary":93375.18,"Max_Salary":93375.18}
+{"Gender":"Female","City":"Ul","Total_Salary":75531.1875,"Average_Salary":75531.1875,"Min_Salary":75531.19,"Max_Salary":75531.19}
+{"Gender":"Male","City":"Banxi","Total_Salary":95523.90625,"Average_Salary":95523.90625,"Min_Salary":95523.91,"Max_Salary":95523.91}
+{"Gender":"Male","City":"Hengliang","Total_Salary":33361.55859375,"Average_Salary":33361.55859375,"Min_Salary":33361.56,"Max_Salary":33361.56}
+{"Gender":"Female","City":"Juntang","Total_Salary":39072.921875,"Average_Salary":39072.921875,"Min_Salary":39072.92,"Max_Salary":39072.92}
+{"Gender":"Female","City":"Yangirabot","Total_Salary":17163.529296875,"Average_Salary":17163.529296875,"Min_Salary":17163.53,"Max_Salary":17163.53}
+{"Gender":"Male","City":"Hoorn","Total_Salary":14724.400390625,"Average_Salary":14724.400390625,"Min_Salary":14724.4,"Max_Salary":14724.4}
+{"Gender":"Male","City":"Xinsheng","Total_Salary":77137.46875,"Average_Salary":77137.46875,"Min_Salary":77137.47,"Max_Salary":77137.47}
+{"Gender":"Male","City":"Irving","Total_Salary":26333.16015625,"Average_Salary":26333.16015625,"Min_Salary":26333.16,"Max_Salary":26333.16}
+{"Gender":"Male","City":"Zhosaly","Total_Salary":74509.5703125,"Average_Salary":74509.5703125,"Min_Salary":74509.57,"Max_Salary":74509.57}
+{"Gender":"Male","City":"Fox Creek","Total_Salary":98138.0,"Average_Salary":98138.0,"Min_Salary":98138.0,"Max_Salary":98138.0}
+{"Gender":"Female","City":"Kafr Zaytā","Total_Salary":58421.328125,"Average_Salary":58421.328125,"Min_Salary":58421.33,"Max_Salary":58421.33}
+{"Gender":"Female","City":"Oslo","Total_Salary":52060.19921875,"Average_Salary":52060.19921875,"Min_Salary":52060.2,"Max_Salary":52060.2}
+{"Gender":"Male","City":"Cambas","Total_Salary":22641.650390625,"Average_Salary":22641.650390625,"Min_Salary":22641.65,"Max_Salary":22641.65}
+{"Gender":"Female","City":"María la Baja","Total_Salary":37379.03125,"Average_Salary":37379.03125,"Min_Salary":37379.03,"Max_Salary":37379.03}
+{"Gender":"Female","City":"Driyorejo","Total_Salary":87771.84375,"Average_Salary":87771.84375,"Min_Salary":87771.84,"Max_Salary":87771.84}
+{"Gender":"Male","City":"Jincheng","Total_Salary":95497.90625,"Average_Salary":95497.90625,"Min_Salary":95497.91,"Max_Salary":95497.91}
+{"Gender":"Male","City":"Rockford","Total_Salary":70527.2421875,"Average_Salary":70527.2421875,"Min_Salary":70527.24,"Max_Salary":70527.24}
+{"Gender":"Male","City":"Yashio-shi","Total_Salary":82610.8125,"Average_Salary":82610.8125,"Min_Salary":82610.81,"Max_Salary":82610.81}
+{"Gender":"Male","City":"Dahuang","Total_Salary":27207.16015625,"Average_Salary":27207.16015625,"Min_Salary":27207.16,"Max_Salary":27207.16}
+{"Gender":"Male","City":"Rokoy","Total_Salary":16025.66015625,"Average_Salary":16025.66015625,"Min_Salary":16025.66,"Max_Salary":16025.66}
+{"Gender":"Male","City":"Pariaman","Total_Salary":80054.1875,"Average_Salary":80054.1875,"Min_Salary":80054.19,"Max_Salary":80054.19}
+{"Gender":"Female","City":"Yongfeng","Total_Salary":86347.6015625,"Average_Salary":86347.6015625,"Min_Salary":86347.6,"Max_Salary":86347.6}
+{"Gender":"Male","City":"Didian","Total_Salary":52146.53125,"Average_Salary":52146.53125,"Min_Salary":52146.53,"Max_Salary":52146.53}
+{"Gender":"Female","City":"Bantardawa","Total_Salary":22561.7890625,"Average_Salary":22561.7890625,"Min_Salary":22561.79,"Max_Salary":22561.79}
+{"Gender":"Male","City":"São Mamede de Infesta","Total_Salary":55111.05859375,"Average_Salary":55111.05859375,"Min_Salary":55111.06,"Max_Salary":55111.06}
+{"Gender":"Female","City":"Gunungmanik","Total_Salary":52885.80078125,"Average_Salary":52885.80078125,"Min_Salary":52885.8,"Max_Salary":52885.8}
+{"Gender":"Male","City":"Yongfeng","Total_Salary":74102.609375,"Average_Salary":74102.609375,"Min_Salary":74102.61,"Max_Salary":74102.61}
+{"Gender":"Female","City":"Arcangel","Total_Salary":69854.1015625,"Average_Salary":69854.1015625,"Min_Salary":69854.1,"Max_Salary":69854.1}
+{"Gender":"Female","City":"Guangdu","Total_Salary":69135.8984375,"Average_Salary":69135.8984375,"Min_Salary":69135.9,"Max_Salary":69135.9}
+{"Gender":"Female","City":"Huibu","Total_Salary":61707.55078125,"Average_Salary":61707.55078125,"Min_Salary":61707.55,"Max_Salary":61707.55}
+{"Gender":"Male","City":"Hodkovičky","Total_Salary":60052.69921875,"Average_Salary":60052.69921875,"Min_Salary":60052.7,"Max_Salary":60052.7}
+{"Gender":"Male","City":"Xiying","Total_Salary":49795.0390625,"Average_Salary":49795.0390625,"Min_Salary":49795.04,"Max_Salary":49795.04}
+{"Gender":"Female","City":"Leshukonskoye","Total_Salary":15428.490234375,"Average_Salary":15428.490234375,"Min_Salary":15428.49,"Max_Salary":15428.49}
+{"Gender":"Male","City":"Lungmar","Total_Salary":31406.560546875,"Average_Salary":31406.560546875,"Min_Salary":31406.56,"Max_Salary":31406.56}
+{"Gender":"Female","City":"Moulins","Total_Salary":136687.703125,"Average_Salary":68343.8515625,"Min_Salary":67625.07,"Max_Salary":69062.63}
+{"Gender":"Male","City":"Borodino","Total_Salary":52742.609375,"Average_Salary":52742.609375,"Min_Salary":52742.61,"Max_Salary":52742.61}
+{"Gender":"Male","City":"Dallas","Total_Salary":55870.408203125,"Average_Salary":27935.2041015625,"Min_Salary":19771.76,"Max_Salary":36098.65}
+{"Gender":"Male","City":"Jiazhuang","Total_Salary":97359.140625,"Average_Salary":97359.140625,"Min_Salary":97359.14,"Max_Salary":97359.14}
+{"Gender":"Male","City":"Paderne","Total_Salary":44332.94140625,"Average_Salary":44332.94140625,"Min_Salary":44332.94,"Max_Salary":44332.94}
+{"Gender":"Male","City":"Fāraskūr","Total_Salary":16800.3203125,"Average_Salary":16800.3203125,"Min_Salary":16800.32,"Max_Salary":16800.32}
+{"Gender":"Female","City":"Patulul","Total_Salary":31349.44921875,"Average_Salary":31349.44921875,"Min_Salary":31349.45,"Max_Salary":31349.45}
+{"Gender":"Female","City":"Xiuying","Total_Salary":87031.4609375,"Average_Salary":87031.4609375,"Min_Salary":87031.46,"Max_Salary":87031.46}
+{"Gender":"Female","City":"Lyaskovets","Total_Salary":95106.34375,"Average_Salary":95106.34375,"Min_Salary":95106.34,"Max_Salary":95106.34}
+{"Gender":"Male","City":"Gjoa Haven","Total_Salary":68943.4375,"Average_Salary":68943.4375,"Min_Salary":68943.44,"Max_Salary":68943.44}
+{"Gender":"Female","City":"Nowa Ruda","Total_Salary":57438.1796875,"Average_Salary":57438.1796875,"Min_Salary":57438.18,"Max_Salary":57438.18}
+{"Gender":"Female","City":"Yacuiba","Total_Salary":92180.9296875,"Average_Salary":92180.9296875,"Min_Salary":92180.93,"Max_Salary":92180.93}
+{"Gender":"Female","City":"Iwŏn-ŭp","Total_Salary":37169.9609375,"Average_Salary":37169.9609375,"Min_Salary":37169.96,"Max_Salary":37169.96}
+{"Gender":"Female","City":"Vaudreuil-Dorion","Total_Salary":73521.6484375,"Average_Salary":73521.6484375,"Min_Salary":73521.65,"Max_Salary":73521.65}
+{"Gender":"Female","City":"Camabatela","Total_Salary":12872.849609375,"Average_Salary":12872.849609375,"Min_Salary":12872.85,"Max_Salary":12872.85}
+{"Gender":"Female","City":"Pak Thong Chai","Total_Salary":52647.1796875,"Average_Salary":52647.1796875,"Min_Salary":52647.18,"Max_Salary":52647.18}
+{"Gender":"Male","City":"Sukaraja","Total_Salary":52745.58984375,"Average_Salary":52745.58984375,"Min_Salary":52745.59,"Max_Salary":52745.59}
+{"Gender":"Male","City":"Borek","Total_Salary":64010.640625,"Average_Salary":64010.640625,"Min_Salary":64010.64,"Max_Salary":64010.64}
+{"Gender":"Male","City":"Nao","Total_Salary":14007.419921875,"Average_Salary":14007.419921875,"Min_Salary":14007.42,"Max_Salary":14007.42}
+{"Gender":"Male","City":"Malishka","Total_Salary":76783.4765625,"Average_Salary":76783.4765625,"Min_Salary":76783.48,"Max_Salary":76783.48}
+{"Gender":"Female","City":"Radovitskiy","Total_Salary":97060.1328125,"Average_Salary":97060.1328125,"Min_Salary":97060.13,"Max_Salary":97060.13}
+{"Gender":"Female","City":"Ubon Ratchathani","Total_Salary":48945.3984375,"Average_Salary":48945.3984375,"Min_Salary":48945.4,"Max_Salary":48945.4}
+{"Gender":"Male","City":"Lunec","Total_Salary":82423.7109375,"Average_Salary":82423.7109375,"Min_Salary":82423.71,"Max_Salary":82423.71}
+{"Gender":"Male","City":"Mehona","Total_Salary":92313.859375,"Average_Salary":92313.859375,"Min_Salary":92313.86,"Max_Salary":92313.86}
+{"Gender":"Female","City":"Slatyne","Total_Salary":88029.109375,"Average_Salary":88029.109375,"Min_Salary":88029.11,"Max_Salary":88029.11}
+{"Gender":"Male","City":"Spas-Zaulok","Total_Salary":41604.671875,"Average_Salary":41604.671875,"Min_Salary":41604.67,"Max_Salary":41604.67}
+{"Gender":"Male","City":"San Agustín","Total_Salary":46495.21875,"Average_Salary":46495.21875,"Min_Salary":46495.22,"Max_Salary":46495.22}
+{"Gender":"Female","City":"Fanrong","Total_Salary":17017.099609375,"Average_Salary":17017.099609375,"Min_Salary":17017.1,"Max_Salary":17017.1}
+{"Gender":"Male","City":"Toledo","Total_Salary":14761.91015625,"Average_Salary":14761.91015625,"Min_Salary":14761.91,"Max_Salary":14761.91}
+{"Gender":"Male","City":"Shūsh","Total_Salary":88389.5625,"Average_Salary":88389.5625,"Min_Salary":88389.56,"Max_Salary":88389.56}
+{"Gender":"Female","City":"Kaduketug","Total_Salary":79148.9765625,"Average_Salary":79148.9765625,"Min_Salary":79148.98,"Max_Salary":79148.98}
+{"Gender":"Male","City":"Niños Heroes","Total_Salary":41345.69140625,"Average_Salary":41345.69140625,"Min_Salary":41345.69,"Max_Salary":41345.69}
+{"Gender":"Male","City":"Guanyang","Total_Salary":56567.30859375,"Average_Salary":56567.30859375,"Min_Salary":56567.31,"Max_Salary":56567.31}
+{"Gender":"Female","City":"Sterlibashevo","Total_Salary":26910.640625,"Average_Salary":26910.640625,"Min_Salary":26910.64,"Max_Salary":26910.64}
+{"Gender":"Male","City":"Ngã Bảy","Total_Salary":25805.880859375,"Average_Salary":25805.880859375,"Min_Salary":25805.88,"Max_Salary":25805.88}
+{"Gender":"Female","City":"Montréal","Total_Salary":38003.96875,"Average_Salary":38003.96875,"Min_Salary":38003.97,"Max_Salary":38003.97}
+{"Gender":"Female","City":"Maraã","Total_Salary":57631.19140625,"Average_Salary":57631.19140625,"Min_Salary":57631.19,"Max_Salary":57631.19}
+{"Gender":"Male","City":"Yongning","Total_Salary":90015.8671875,"Average_Salary":90015.8671875,"Min_Salary":90015.87,"Max_Salary":90015.87}
+{"Gender":"Male","City":"Tembayangan Barat","Total_Salary":69147.7421875,"Average_Salary":69147.7421875,"Min_Salary":69147.74,"Max_Salary":69147.74}
+{"Gender":"Female","City":"Agios Dimitrios","Total_Salary":32930.55078125,"Average_Salary":32930.55078125,"Min_Salary":32930.55,"Max_Salary":32930.55}
+{"Gender":"Female","City":"Wujia","Total_Salary":81269.3125,"Average_Salary":81269.3125,"Min_Salary":81269.31,"Max_Salary":81269.31}
+{"Gender":"Male","City":"Xiaozhai","Total_Salary":36990.609375,"Average_Salary":36990.609375,"Min_Salary":36990.61,"Max_Salary":36990.61}
+{"Gender":"Male","City":"Czarna Woda","Total_Salary":21850.509765625,"Average_Salary":21850.509765625,"Min_Salary":21850.51,"Max_Salary":21850.51}
+{"Gender":"Male","City":"Kiten","Total_Salary":63882.55859375,"Average_Salary":63882.55859375,"Min_Salary":63882.56,"Max_Salary":63882.56}
+{"Gender":"Female","City":"Reckange-sur-Mess","Total_Salary":15589.5595703125,"Average_Salary":15589.5595703125,"Min_Salary":15589.56,"Max_Salary":15589.56}
+{"Gender":"Male","City":"Benito Juarez","Total_Salary":82380.59375,"Average_Salary":82380.59375,"Min_Salary":82380.59,"Max_Salary":82380.59}
+{"Gender":"Female","City":"Mina Clavero","Total_Salary":62252.359375,"Average_Salary":62252.359375,"Min_Salary":62252.36,"Max_Salary":62252.36}
+{"Gender":"Female","City":"Ccuntuma","Total_Salary":61462.01171875,"Average_Salary":61462.01171875,"Min_Salary":61462.01,"Max_Salary":61462.01}
+{"Gender":"Female","City":"Pingle","Total_Salary":91516.53125,"Average_Salary":91516.53125,"Min_Salary":91516.53,"Max_Salary":91516.53}
+{"Gender":"Female","City":"Kerema","Total_Salary":44317.1015625,"Average_Salary":44317.1015625,"Min_Salary":44317.1,"Max_Salary":44317.1}
+{"Gender":"Male","City":"Aiquile","Total_Salary":63039.2109375,"Average_Salary":63039.2109375,"Min_Salary":63039.21,"Max_Salary":63039.21}
+{"Gender":"Female","City":"Fontenay-sous-Bois","Total_Salary":23725.490234375,"Average_Salary":23725.490234375,"Min_Salary":23725.49,"Max_Salary":23725.49}
+{"Gender":"Female","City":"Chaviña","Total_Salary":70794.3203125,"Average_Salary":70794.3203125,"Min_Salary":70794.32,"Max_Salary":70794.32}
+{"Gender":"Male","City":"Derzhavīnsk","Total_Salary":18182.91015625,"Average_Salary":18182.91015625,"Min_Salary":18182.91,"Max_Salary":18182.91}
+{"Gender":"Male","City":"Ibara","Total_Salary":22366.4296875,"Average_Salary":22366.4296875,"Min_Salary":22366.43,"Max_Salary":22366.43}
+{"Gender":"Female","City":"Orong","Total_Salary":47962.05078125,"Average_Salary":47962.05078125,"Min_Salary":47962.05,"Max_Salary":47962.05}
+{"Gender":"Male","City":"Sukorambi","Total_Salary":20017.609375,"Average_Salary":20017.609375,"Min_Salary":20017.61,"Max_Salary":20017.61}
+{"Gender":"Male","City":"Rosso","Total_Salary":36879.44140625,"Average_Salary":36879.44140625,"Min_Salary":36879.44,"Max_Salary":36879.44}
+{"Gender":"Female","City":"Mariano Moreno","Total_Salary":11376.580078125,"Average_Salary":11376.580078125,"Min_Salary":11376.58,"Max_Salary":11376.58}
+{"Gender":"Male","City":"Caen","Total_Salary":81237.2109375,"Average_Salary":81237.2109375,"Min_Salary":81237.21,"Max_Salary":81237.21}
+{"Gender":"Female","City":"Pysznica","Total_Salary":31466.580078125,"Average_Salary":31466.580078125,"Min_Salary":31466.58,"Max_Salary":31466.58}
+{"Gender":"Female","City":"Dschang","Total_Salary":39262.9609375,"Average_Salary":39262.9609375,"Min_Salary":39262.96,"Max_Salary":39262.96}
+{"Gender":"Male","City":"Kamālia","Total_Salary":46879.328125,"Average_Salary":46879.328125,"Min_Salary":46879.33,"Max_Salary":46879.33}
+{"Gender":"Male","City":"Atlanta","Total_Salary":25929.9296875,"Average_Salary":25929.9296875,"Min_Salary":25929.93,"Max_Salary":25929.93}
+{"Gender":"Female","City":"Kęty","Total_Salary":44224.8984375,"Average_Salary":44224.8984375,"Min_Salary":44224.9,"Max_Salary":44224.9}
+{"Gender":"Female","City":"Karma","Total_Salary":27633.30078125,"Average_Salary":27633.30078125,"Min_Salary":27633.3,"Max_Salary":27633.3}
+{"Gender":"Male","City":"Habingkloang","Total_Salary":56892.96875,"Average_Salary":56892.96875,"Min_Salary":56892.97,"Max_Salary":56892.97}
+{"Gender":"Female","City":"Yuncheng","Total_Salary":17959.150390625,"Average_Salary":17959.150390625,"Min_Salary":17959.15,"Max_Salary":17959.15}
+{"Gender":"Male","City":"Shuangjiang","Total_Salary":29673.009765625,"Average_Salary":29673.009765625,"Min_Salary":29673.01,"Max_Salary":29673.01}
+{"Gender":"Male","City":"Mieścisko","Total_Salary":44947.12109375,"Average_Salary":22473.560546875,"Min_Salary":18907.81,"Max_Salary":26039.31}
+{"Gender":"Female","City":"Gerong","Total_Salary":58172.73046875,"Average_Salary":58172.73046875,"Min_Salary":58172.73,"Max_Salary":58172.73}
+{"Gender":"Male","City":"Aveleda","Total_Salary":35409.578125,"Average_Salary":35409.578125,"Min_Salary":35409.58,"Max_Salary":35409.58}
+{"Gender":"Male","City":"Wangshi","Total_Salary":17529.3203125,"Average_Salary":17529.3203125,"Min_Salary":17529.32,"Max_Salary":17529.32}
+{"Gender":"Male","City":"Lachute","Total_Salary":11926.3095703125,"Average_Salary":11926.3095703125,"Min_Salary":11926.31,"Max_Salary":11926.31}
+{"Gender":"Male","City":"Guiping","Total_Salary":28755.529296875,"Average_Salary":28755.529296875,"Min_Salary":28755.53,"Max_Salary":28755.53}
+{"Gender":"Female","City":"Nunhala","Total_Salary":70577.1328125,"Average_Salary":70577.1328125,"Min_Salary":70577.13,"Max_Salary":70577.13}
+{"Gender":"Female","City":"Lanigan","Total_Salary":88604.390625,"Average_Salary":88604.390625,"Min_Salary":88604.39,"Max_Salary":88604.39}
+{"Gender":"Male","City":"Muyinga","Total_Salary":91370.90625,"Average_Salary":91370.90625,"Min_Salary":91370.91,"Max_Salary":91370.91}
+{"Gender":"Male","City":"El Monte","Total_Salary":85623.28125,"Average_Salary":85623.28125,"Min_Salary":85623.28,"Max_Salary":85623.28}
+{"Gender":"Male","City":"Pavlogradka","Total_Salary":66158.8515625,"Average_Salary":66158.8515625,"Min_Salary":66158.85,"Max_Salary":66158.85}
+{"Gender":"Female","City":"Shar’ya","Total_Salary":63188.6484375,"Average_Salary":63188.6484375,"Min_Salary":63188.65,"Max_Salary":63188.65}
+{"Gender":"Male","City":"Garbów","Total_Salary":27445.9296875,"Average_Salary":27445.9296875,"Min_Salary":27445.93,"Max_Salary":27445.93}
+{"Gender":"Female","City":"Dalongzhan","Total_Salary":36352.51171875,"Average_Salary":36352.51171875,"Min_Salary":36352.51,"Max_Salary":36352.51}
+{"Gender":"Female","City":"St. Thomas","Total_Salary":16987.330078125,"Average_Salary":16987.330078125,"Min_Salary":16987.33,"Max_Salary":16987.33}
+{"Gender":"Female","City":"Tân Hiệp","Total_Salary":51871.30859375,"Average_Salary":51871.30859375,"Min_Salary":51871.31,"Max_Salary":51871.31}
+{"Gender":"Male","City":"Rama","Total_Salary":34944.80078125,"Average_Salary":34944.80078125,"Min_Salary":34944.8,"Max_Salary":34944.8}
+{"Gender":"Female","City":"Heliconia","Total_Salary":89959.96875,"Average_Salary":89959.96875,"Min_Salary":89959.97,"Max_Salary":89959.97}
+{"Gender":"Female","City":"Tabālah","Total_Salary":60641.75,"Average_Salary":60641.75,"Min_Salary":60641.75,"Max_Salary":60641.75}
+{"Gender":"Female","City":"Bené Beraq","Total_Salary":74349.578125,"Average_Salary":74349.578125,"Min_Salary":74349.58,"Max_Salary":74349.58}
+{"Gender":"Male","City":"Brčko","Total_Salary":23825.5390625,"Average_Salary":23825.5390625,"Min_Salary":23825.54,"Max_Salary":23825.54}
+{"Gender":"Female","City":"Dzaoudzi","Total_Salary":65520.44921875,"Average_Salary":65520.44921875,"Min_Salary":65520.45,"Max_Salary":65520.45}
+{"Gender":"Male","City":"Krajan Siki","Total_Salary":28660.109375,"Average_Salary":28660.109375,"Min_Salary":28660.11,"Max_Salary":28660.11}
+{"Gender":"Male","City":"East London","Total_Salary":41468.828125,"Average_Salary":41468.828125,"Min_Salary":41468.83,"Max_Salary":41468.83}
+{"Gender":"Female","City":"Nangewer","Total_Salary":70062.7265625,"Average_Salary":70062.7265625,"Min_Salary":70062.73,"Max_Salary":70062.73}
+{"Gender":"Male","City":"Bambous Virieux","Total_Salary":96856.7265625,"Average_Salary":96856.7265625,"Min_Salary":96856.73,"Max_Salary":96856.73}
+{"Gender":"Female","City":"Al Mukallā","Total_Salary":12468.7001953125,"Average_Salary":12468.7001953125,"Min_Salary":12468.7,"Max_Salary":12468.7}
+{"Gender":"Female","City":"Tasikmalaya","Total_Salary":65785.15625,"Average_Salary":65785.15625,"Min_Salary":65785.16,"Max_Salary":65785.16}
+{"Gender":"Female","City":"Companhia de Baixo","Total_Salary":83137.2421875,"Average_Salary":83137.2421875,"Min_Salary":83137.24,"Max_Salary":83137.24}
+{"Gender":"Male","City":"Houmt Souk","Total_Salary":79870.3984375,"Average_Salary":79870.3984375,"Min_Salary":79870.4,"Max_Salary":79870.4}
+{"Gender":"Female","City":"Kurayoshi","Total_Salary":32665.890625,"Average_Salary":32665.890625,"Min_Salary":32665.89,"Max_Salary":32665.89}
+{"Gender":"Female","City":"Senta","Total_Salary":55175.87890625,"Average_Salary":55175.87890625,"Min_Salary":55175.88,"Max_Salary":55175.88}
+{"Gender":"Male","City":"Góra","Total_Salary":37925.5703125,"Average_Salary":37925.5703125,"Min_Salary":37925.57,"Max_Salary":37925.57}
+{"Gender":"Female","City":"Buena Vista","Total_Salary":85861.328125,"Average_Salary":85861.328125,"Min_Salary":85861.33,"Max_Salary":85861.33}
+{"Gender":"Male","City":"Inuyama","Total_Salary":35134.87890625,"Average_Salary":35134.87890625,"Min_Salary":35134.88,"Max_Salary":35134.88}
+{"Gender":"Female","City":"Kozloduy","Total_Salary":14866.419921875,"Average_Salary":14866.419921875,"Min_Salary":14866.42,"Max_Salary":14866.42}
+{"Gender":"Male","City":"Kham Sakae Saeng","Total_Salary":11630.9501953125,"Average_Salary":11630.9501953125,"Min_Salary":11630.95,"Max_Salary":11630.95}
+{"Gender":"Male","City":"Dongshan","Total_Salary":74449.5703125,"Average_Salary":74449.5703125,"Min_Salary":74449.57,"Max_Salary":74449.57}
+{"Gender":"Female","City":"Kenamoen","Total_Salary":69631.2890625,"Average_Salary":69631.2890625,"Min_Salary":69631.29,"Max_Salary":69631.29}
+{"Gender":"Male","City":"Yuanqiao","Total_Salary":72247.296875,"Average_Salary":72247.296875,"Min_Salary":72247.3,"Max_Salary":72247.3}
+{"Gender":"Male","City":"Kandete","Total_Salary":96174.9375,"Average_Salary":96174.9375,"Min_Salary":96174.94,"Max_Salary":96174.94}
+{"Gender":"Male","City":"Bugarama","Total_Salary":90470.1796875,"Average_Salary":90470.1796875,"Min_Salary":90470.18,"Max_Salary":90470.18}
+{"Gender":"Female","City":"Concepción","Total_Salary":11824.51953125,"Average_Salary":11824.51953125,"Min_Salary":11824.52,"Max_Salary":11824.52}
+{"Gender":"Male","City":"Xiangdong","Total_Salary":74615.1796875,"Average_Salary":74615.1796875,"Min_Salary":74615.18,"Max_Salary":74615.18}
+{"Gender":"Female","City":"Khorosheve","Total_Salary":43603.83984375,"Average_Salary":43603.83984375,"Min_Salary":43603.84,"Max_Salary":43603.84}
+{"Gender":"Female","City":"Macarse","Total_Salary":68709.0234375,"Average_Salary":68709.0234375,"Min_Salary":68709.02,"Max_Salary":68709.02}
+{"Gender":"Female","City":"Bang Yai","Total_Salary":39999.73046875,"Average_Salary":39999.73046875,"Min_Salary":39999.73,"Max_Salary":39999.73}
+{"Gender":"Female","City":"Tadotsu","Total_Salary":55595.30078125,"Average_Salary":55595.30078125,"Min_Salary":55595.3,"Max_Salary":55595.3}
+{"Gender":"Female","City":"Al ‘Udayn","Total_Salary":38544.5703125,"Average_Salary":38544.5703125,"Min_Salary":38544.57,"Max_Salary":38544.57}
+{"Gender":"Male","City":"Kolochava","Total_Salary":51590.578125,"Average_Salary":51590.578125,"Min_Salary":51590.58,"Max_Salary":51590.58}
+{"Gender":"Female","City":"Il’ichëvo","Total_Salary":43503.55859375,"Average_Salary":43503.55859375,"Min_Salary":43503.56,"Max_Salary":43503.56}
+{"Gender":"Male","City":"Dobrica","Total_Salary":59318.890625,"Average_Salary":59318.890625,"Min_Salary":59318.89,"Max_Salary":59318.89}
+{"Gender":"Male","City":"Maple Ridge","Total_Salary":75660.3515625,"Average_Salary":75660.3515625,"Min_Salary":75660.35,"Max_Salary":75660.35}
+{"Gender":"Female","City":"Jinsha","Total_Salary":63954.51953125,"Average_Salary":63954.51953125,"Min_Salary":63954.52,"Max_Salary":63954.52}
+{"Gender":"Male","City":"Wanglinkou","Total_Salary":13300.919921875,"Average_Salary":13300.919921875,"Min_Salary":13300.92,"Max_Salary":13300.92}
+{"Gender":"Male","City":"Grytviken","Total_Salary":66235.171875,"Average_Salary":66235.171875,"Min_Salary":66235.17,"Max_Salary":66235.17}
+{"Gender":"Female","City":"Welisara","Total_Salary":48376.421875,"Average_Salary":48376.421875,"Min_Salary":48376.42,"Max_Salary":48376.42}
+{"Gender":"Male","City":"Magtangol","Total_Salary":72072.9296875,"Average_Salary":72072.9296875,"Min_Salary":72072.93,"Max_Salary":72072.93}
+{"Gender":"Female","City":"Kabīrwāla","Total_Salary":82044.0,"Average_Salary":82044.0,"Min_Salary":82044.0,"Max_Salary":82044.0}
+{"Gender":"Female","City":"Kýthnos","Total_Salary":80548.359375,"Average_Salary":80548.359375,"Min_Salary":80548.36,"Max_Salary":80548.36}
+{"Gender":"Female","City":"Itami","Total_Salary":94566.6875,"Average_Salary":94566.6875,"Min_Salary":94566.69,"Max_Salary":94566.69}
+{"Gender":"Female","City":"Pećigrad","Total_Salary":19415.080078125,"Average_Salary":19415.080078125,"Min_Salary":19415.08,"Max_Salary":19415.08}
+{"Gender":"Male","City":"Jiyang","Total_Salary":111250.42578125,"Average_Salary":55625.212890625,"Min_Salary":41273.88,"Max_Salary":69976.55}
+{"Gender":"Male","City":"Banjar Tengahbelayu","Total_Salary":41031.9609375,"Average_Salary":41031.9609375,"Min_Salary":41031.96,"Max_Salary":41031.96}
+{"Gender":"Female","City":"Zhujiang","Total_Salary":30786.33984375,"Average_Salary":30786.33984375,"Min_Salary":30786.34,"Max_Salary":30786.34}
+{"Gender":"Male","City":"Sujiazhuang","Total_Salary":23901.140625,"Average_Salary":23901.140625,"Min_Salary":23901.14,"Max_Salary":23901.14}
+{"Gender":"Female","City":"Youwei","Total_Salary":64311.30859375,"Average_Salary":64311.30859375,"Min_Salary":64311.31,"Max_Salary":64311.31}
+{"Gender":"Male","City":"Zheyuan","Total_Salary":55844.6015625,"Average_Salary":55844.6015625,"Min_Salary":55844.6,"Max_Salary":55844.6}
+{"Gender":"Female","City":"Nouaseur","Total_Salary":36268.6484375,"Average_Salary":36268.6484375,"Min_Salary":36268.65,"Max_Salary":36268.65}
+{"Gender":"Female","City":"Xiadian","Total_Salary":77354.3515625,"Average_Salary":77354.3515625,"Min_Salary":77354.35,"Max_Salary":77354.35}
+{"Gender":"Female","City":"Calibishie","Total_Salary":19180.7890625,"Average_Salary":19180.7890625,"Min_Salary":19180.79,"Max_Salary":19180.79}
+{"Gender":"Female","City":"Dogonbadan","Total_Salary":77957.2421875,"Average_Salary":77957.2421875,"Min_Salary":77957.24,"Max_Salary":77957.24}
+{"Gender":"Female","City":"Boracéia","Total_Salary":64899.19140625,"Average_Salary":64899.19140625,"Min_Salary":64899.19,"Max_Salary":64899.19}
+{"Gender":"Male","City":"Pinaring","Total_Salary":72105.5,"Average_Salary":72105.5,"Min_Salary":72105.5,"Max_Salary":72105.5}
+{"Gender":"Female","City":"Zheleznogorsk","Total_Salary":18453.01953125,"Average_Salary":18453.01953125,"Min_Salary":18453.02,"Max_Salary":18453.02}
+{"Gender":"Male","City":"Cocachacra","Total_Salary":90391.7109375,"Average_Salary":90391.7109375,"Min_Salary":90391.71,"Max_Salary":90391.71}
+{"Gender":"Male","City":"Ribeirão das Neves","Total_Salary":37574.140625,"Average_Salary":37574.140625,"Min_Salary":37574.14,"Max_Salary":37574.14}
+{"Gender":"Female","City":"Khāngāh Dogrān","Total_Salary":95247.140625,"Average_Salary":95247.140625,"Min_Salary":95247.14,"Max_Salary":95247.14}
+{"Gender":"Female","City":"Hägersten","Total_Salary":93673.2421875,"Average_Salary":93673.2421875,"Min_Salary":93673.24,"Max_Salary":93673.24}
+{"Gender":"Female","City":"Dawusu","Total_Salary":34888.69921875,"Average_Salary":34888.69921875,"Min_Salary":34888.7,"Max_Salary":34888.7}
+{"Gender":"Female","City":"Mombok","Total_Salary":16810.19921875,"Average_Salary":16810.19921875,"Min_Salary":16810.2,"Max_Salary":16810.2}
+{"Gender":"Male","City":"Torslanda","Total_Salary":66504.421875,"Average_Salary":66504.421875,"Min_Salary":66504.42,"Max_Salary":66504.42}
+{"Gender":"Male","City":"Majāz al Bāb","Total_Salary":67858.4765625,"Average_Salary":67858.4765625,"Min_Salary":67858.48,"Max_Salary":67858.48}
+{"Gender":"Female","City":"Tabant","Total_Salary":29107.0,"Average_Salary":29107.0,"Min_Salary":29107.0,"Max_Salary":29107.0}
+{"Gender":"Male","City":"Idkū","Total_Salary":27630.75,"Average_Salary":27630.75,"Min_Salary":27630.75,"Max_Salary":27630.75}
+{"Gender":"Female","City":"Salamnunggal","Total_Salary":97140.859375,"Average_Salary":97140.859375,"Min_Salary":97140.86,"Max_Salary":97140.86}
+{"Gender":"Male","City":"Chishtiān Mandi","Total_Salary":18229.9296875,"Average_Salary":18229.9296875,"Min_Salary":18229.93,"Max_Salary":18229.93}
+{"Gender":"Female","City":"Jabungsisir","Total_Salary":91925.078125,"Average_Salary":91925.078125,"Min_Salary":91925.08,"Max_Salary":91925.08}
+{"Gender":"Male","City":"Ddmashen","Total_Salary":34851.6484375,"Average_Salary":34851.6484375,"Min_Salary":34851.65,"Max_Salary":34851.65}
+{"Gender":"Male","City":"Kouvola","Total_Salary":68685.75,"Average_Salary":68685.75,"Min_Salary":68685.75,"Max_Salary":68685.75}
+{"Gender":"Male","City":"Caridad","Total_Salary":88700.6875,"Average_Salary":88700.6875,"Min_Salary":88700.69,"Max_Salary":88700.69}
+{"Gender":"Male","City":"Šmartno pri Litiji","Total_Salary":35287.30859375,"Average_Salary":35287.30859375,"Min_Salary":35287.31,"Max_Salary":35287.31}
+{"Gender":"Female","City":"Bangbayang Kaler","Total_Salary":99944.046875,"Average_Salary":99944.046875,"Min_Salary":99944.05,"Max_Salary":99944.05}
+{"Gender":"Male","City":"Kaélé","Total_Salary":78367.859375,"Average_Salary":78367.859375,"Min_Salary":78367.86,"Max_Salary":78367.86}
+{"Gender":"Female","City":"Severo-Zadonsk","Total_Salary":30192.08984375,"Average_Salary":30192.08984375,"Min_Salary":30192.09,"Max_Salary":30192.09}
+{"Gender":"Female","City":"Jarošov nad Nežárkou","Total_Salary":82905.578125,"Average_Salary":82905.578125,"Min_Salary":82905.58,"Max_Salary":82905.58}
+{"Gender":"Male","City":"Oinoússes","Total_Salary":41038.16015625,"Average_Salary":41038.16015625,"Min_Salary":41038.16,"Max_Salary":41038.16}
+{"Gender":"Female","City":"Bontoc","Total_Salary":84727.609375,"Average_Salary":84727.609375,"Min_Salary":84727.61,"Max_Salary":84727.61}
+{"Gender":"Male","City":"Seredka","Total_Salary":57257.03125,"Average_Salary":57257.03125,"Min_Salary":57257.03,"Max_Salary":57257.03}
+{"Gender":"Male","City":"Gostyń","Total_Salary":34110.2109375,"Average_Salary":34110.2109375,"Min_Salary":34110.21,"Max_Salary":34110.21}
+{"Gender":"Male","City":"Nysa","Total_Salary":81008.40625,"Average_Salary":81008.40625,"Min_Salary":81008.41,"Max_Salary":81008.41}
+{"Gender":"Male","City":"Secunda","Total_Salary":21326.73046875,"Average_Salary":21326.73046875,"Min_Salary":21326.73,"Max_Salary":21326.73}
+{"Gender":"Female","City":"Arys","Total_Salary":55981.2109375,"Average_Salary":55981.2109375,"Min_Salary":55981.21,"Max_Salary":55981.21}
+{"Gender":"Female","City":"Marigot","Total_Salary":51961.98046875,"Average_Salary":51961.98046875,"Min_Salary":51961.98,"Max_Salary":51961.98}
+{"Gender":"Female","City":"Mranggen","Total_Salary":68556.6875,"Average_Salary":68556.6875,"Min_Salary":68556.69,"Max_Salary":68556.69}
+{"Gender":"Male","City":"Sobang","Total_Salary":94147.6484375,"Average_Salary":94147.6484375,"Min_Salary":94147.65,"Max_Salary":94147.65}
+{"Gender":"Male","City":"Nanjie","Total_Salary":32671.900390625,"Average_Salary":32671.900390625,"Min_Salary":32671.9,"Max_Salary":32671.9}

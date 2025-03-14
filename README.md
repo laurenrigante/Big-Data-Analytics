@@ -24,3 +24,5 @@ This repository will be continuously updated as I progress through the course. ð
 - [Lesson 1](https://github.com/laurenrigante/Big-Data-Analytics/tree/main/LESSON%201) : Introduction to big data tools, data mining, and lambda functions
 - [Lesson 2](https://github.com/laurenrigante/Big-Data-Analytics/tree/main/LESSON%202)   : Introduction to NumPy, Pandas, and Matplot lib. Includes case studies and practice assignments
 - [Lesson 3](https://github.com/laurenrigante/Big-Data-Analytics/tree/main/LESSON%203) : Machine Learning, Regression Methods, Classification, Decision Trees
+- [Lesson 5](https://github.com/laurenrigante/Big-Data-Analytics/tree/main/LESSON%205) :Clustering, Dimensionality reduction using PCA, Pyspark and Spark SQL
+- [Lesson 9](https://github.com/laurenrigante/Big-Data-Analytics/tree/main/LESSON%209): Frequent Itemsets and Assiociation Ruling using Apriori Algorithm
